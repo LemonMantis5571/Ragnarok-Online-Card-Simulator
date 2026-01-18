@@ -3,14 +3,14 @@ FROM node:20-alpine AS builder
 
 WORKDIR /app
 
-# Copy package files
-COPY package.json package-lock.json ./
+# Update these paths to include the 'frontend/' prefix
+COPY frontend/package.json frontend/package-lock.json ./
 
 # Install dependencies
 RUN npm ci
 
-# Copy source code
-COPY . .
+# Update this to copy the frontend folder
+COPY frontend/ .
 
 # Build the project
 RUN npm run build
