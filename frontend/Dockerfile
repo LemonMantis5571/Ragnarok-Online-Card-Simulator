@@ -21,9 +21,6 @@ FROM nginx:alpine
 # Copy build artifacts to Nginx html folder
 COPY --from=builder /app/dist /usr/share/nginx/html
 
-# Copy custom nginx config to handle SPA routing (if any)
-# We will create a simple inline config or default to standard one, 
-# but for SPA we usually need to redirect 404 to index.html.
 RUN echo 'server { \
     listen 80; \
     location / { \

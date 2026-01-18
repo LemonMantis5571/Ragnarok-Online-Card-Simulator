@@ -1,6 +1,6 @@
 import type { CardType, Collection } from './types'
 
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8089/api'
+const API_BASE = import.meta.env.VITE_API_URL
 
 export interface PackResponse {
   cards: CardType[]
