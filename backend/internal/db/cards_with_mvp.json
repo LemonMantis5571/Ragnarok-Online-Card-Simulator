@@ -1,0 +1,3211 @@
+[
+  {
+    "id": 4001,
+    "AegisName": "Poring_Card",
+    "name": "Poring Card",
+    "type": "Card",
+    "Description": "LUK + 2\nPerfect Dodge + 1\n[Mastering Card Combo]"
+  },
+  {
+    "id": 4002,
+    "AegisName": "Fabre_Card",
+    "name": "Fabre Card",
+    "type": "Card",
+    "Description": "VIT + 1\nMaximum HP + 100"
+  },
+  {
+    "id": 4003,
+    "AegisName": "Pupa_Card",
+    "name": "Pupa Card",
+    "type": "Card",
+    "Description": "Maximum HP + 700"
+  },
+  {
+    "id": 4004,
+    "AegisName": "Drops_Card",
+    "name": "Drops Card",
+    "type": "Card",
+    "Description": "DEX + 1\nHIT + 3"
+  },
+  {
+    "id": 4005,
+    "AegisName": "Poring__Card",
+    "name": "Santa Poring Card",
+    "type": "Card",
+    "Description": "Increase damage of attacks inflicted on Shadow Property by 20%."
+  },
+  {
+    "id": 4006,
+    "AegisName": "Lunatic_Card",
+    "name": "Lunatic Card",
+    "type": "Card",
+    "Description": "LUK + 1\nCritical Rate + 1\nPerfect Dodge + 1\n[Eclipse Card Combo]"
+  },
+  {
+    "id": 4007,
+    "AegisName": "Pecopeco_Egg_Card",
+    "name": "Peco Peco Egg Card",
+    "type": "Card",
+    "Description": "Increase damage of attacks inflicted on Formless monster by 20%."
+  },
+  {
+    "id": 4008,
+    "AegisName": "Picky_Card",
+    "name": "Picky Card",
+    "type": "Card",
+    "Description": "STR + 1\nATK + 10"
+  },
+  {
+    "id": 4009,
+    "AegisName": "Chonchon_Card",
+    "name": "Chonchon Card",
+    "type": "Card",
+    "Description": "AGI + 1\nFlee Rate + 2\n[Dragon Fly Card Combo]"
+  },
+  {
+    "id": 4010,
+    "AegisName": "Wilow_Card",
+    "name": "Willow Card",
+    "type": "Card",
+    "Description": "Maximum SP + 80"
+  },
+  {
+    "id": 4011,
+    "AegisName": "Picky__Card",
+    "name": "Picky Egg Card",
+    "type": "Card",
+    "Description": "VIT + 1\nMaximum HP + 100"
+  },
+  {
+    "id": 4012,
+    "AegisName": "Thief_Bug_Egg_Card",
+    "name": "Thief Bug Egg Card",
+    "type": "Card",
+    "Description": "Maximum HP + 400"
+  },
+  {
+    "id": 4013,
+    "AegisName": "Andre_Egg_Card",
+    "name": "Andre Egg Card",
+    "type": "Card",
+    "Description": "Maximum HP + 5%"
+  },
+  {
+    "id": 4014,
+    "AegisName": "Roda_Frog_Card",
+    "name": "Roda Frog Card",
+    "type": "Card",
+    "Description": "Maximum HP + 400\nMaximum SP + 50\n[Toad Card Combo]"
+  },
+  {
+    "id": 4015,
+    "AegisName": "Condor_Card",
+    "name": "Condor Card",
+    "type": "Card",
+    "Description": "Flee Rate + 10"
+  },
+  {
+    "id": 4016,
+    "AegisName": "Thief_Bug_Card",
+    "name": "Thief Bug Card",
+    "type": "Card",
+    "Description": "AGI + 1"
+  },
+  {
+    "id": 4017,
+    "AegisName": "Savage_Babe_Card",
+    "name": "Savage Babe Card",
+    "type": "Card",
+    "Description": "Causes Stun effect to enemies by 5% chance."
+  },
+  {
+    "id": 4018,
+    "AegisName": "Andre_Larva_Card",
+    "name": "Andre Larva Card",
+    "type": "Card",
+    "Description": "INT + 1\nMaximum SP + 10"
+  },
+  {
+    "id": 4019,
+    "AegisName": "Hornet_Card",
+    "name": "Hornet Card",
+    "type": "Card",
+    "Description": "STR + 1\nATK + 3"
+  },
+  {
+    "id": 4020,
+    "AegisName": "Farmiliar_Card",
+    "name": "Familiar Card",
+    "type": "Card",
+    "Description": "Blind an enemy when you attack (Success Chance 5%).\nATK + 5"
+  },
+  {
+    "id": 4021,
+    "AegisName": "Rocker_Card",
+    "name": "Rocker Card",
+    "type": "Card",
+    "Description": "DEX + 1\nATK + 5\n[Vocal Card Combo]"
+  },
+  {
+    "id": 4022,
+    "AegisName": "Spore_Card",
+    "name": "Spore Card",
+    "type": "Card",
+    "Description": "VIT + 2"
+  },
+  {
+    "id": 4023,
+    "AegisName": "Desert_Wolf_Babe_Card",
+    "name": "Baby Desert Wolf Card",
+    "type": "Card",
+    "Description": "INT + 1"
+  },
+  {
+    "id": 4024,
+    "AegisName": "Plankton_Card",
+    "name": "Plankton Card",
+    "type": "Card",
+    "Description": "Inflict Sleep status when you attack (Success Chance 5%).\nATK + 5"
+  },
+  {
+    "id": 4025,
+    "AegisName": "Skeleton_Card",
+    "name": "Skeleton Card",
+    "type": "Card",
+    "Description": "ATK + 10\nCauses Stun effect to enemies by 2% chance.\n[Skeleton Prisoner Card Combo]"
+  },
+  {
+    "id": 4026,
+    "AegisName": "Thief_Bug_Female_Card",
+    "name": "Female Thief Bug Card",
+    "type": "Card",
+    "Description": "AGI + 1\nFlee Rate + 1"
+  },
+  {
+    "id": 4027,
+    "AegisName": "Kukre_Card",
+    "name": "Kukre Card",
+    "type": "Card",
+    "Description": "AGI + 2"
+  },
+  {
+    "id": 4028,
+    "AegisName": "Tarou_Card",
+    "name": "Tarou Card",
+    "type": "Card",
+    "Description": "STR + 2\n[Cramp Card Combo]"
+  },
+  {
+    "id": 4029,
+    "AegisName": "Wolf_Card",
+    "name": "Wolf Card",
+    "type": "Card",
+    "Description": "ATK + 15\nCritical Rate + 1\n[Vagabond Wolf Card Combo]"
+  },
+  {
+    "id": 4030,
+    "AegisName": "Mandragora_Card",
+    "name": "Mandragora Card",
+    "type": "Card",
+    "Description": "Increase damage inflicted upon Wind Property enemies by 20%."
+  },
+  {
+    "id": 4031,
+    "AegisName": "Pecopeco_Card",
+    "name": "Peco Peco Card",
+    "type": "Card",
+    "Description": "Maximum HP + 10%\n[Grand Peco Card Combo]"
+  },
+  {
+    "id": 4032,
+    "AegisName": "Ambernite_Card",
+    "name": "Ambernite Card",
+    "type": "Card",
+    "Description": "DEF + 2"
+  },
+  {
+    "id": 4033,
+    "AegisName": "Poporing_Card",
+    "name": "Poporing Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Detoxify."
+  },
+  {
+    "id": 4034,
+    "AegisName": "Worm_Tail_Card",
+    "name": "Wormtail Card",
+    "type": "Card",
+    "Description": "DEX + 2"
+  },
+  {
+    "id": 4035,
+    "AegisName": "Hydra_Card",
+    "name": "Hydra Card",
+    "type": "Card",
+    "Description": "Increase damage on DemiHuman monster by 20%."
+  },
+  {
+    "id": 4036,
+    "AegisName": "Muka_Card",
+    "name": "Muka Card",
+    "type": "Card",
+    "Description": "HP Recovery + 10%"
+  },
+  {
+    "id": 4037,
+    "AegisName": "Snake_Card",
+    "name": "Snake Card",
+    "type": "Card",
+    "Description": "Poison an enemy when you attack (Success Chance 5%).\nATK + 5"
+  },
+  {
+    "id": 4038,
+    "AegisName": "Zombie_Card",
+    "name": "Zombie Card",
+    "type": "Card",
+    "Description": "HP Recovery + 20%"
+  },
+  {
+    "id": 4039,
+    "AegisName": "Stainer_Card",
+    "name": "Stainer Card",
+    "type": "Card",
+    "Description": "Increase resistance to Silence status by 20%.\nDEF + 1"
+  },
+  {
+    "id": 4040,
+    "AegisName": "Creamy_Card",
+    "name": "Creamy Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Teleportation."
+  },
+  {
+    "id": 4041,
+    "AegisName": "Coco_Card",
+    "name": "Coco Card",
+    "type": "Card",
+    "Description": "Increase resistance to Sleep status by 20%.\nDEF + 1"
+  },
+  {
+    "id": 4042,
+    "AegisName": "Steel_Chonchon_Card",
+    "name": "Steel Chonchon Card",
+    "type": "Card",
+    "Description": "DEF + 2\nIncrease resistance to Wind Property attacks by 10%."
+  },
+  {
+    "id": 4043,
+    "AegisName": "Andre_Card",
+    "name": "Andre Card",
+    "type": "Card",
+    "Description": "ATK + 20"
+  },
+  {
+    "id": 4044,
+    "AegisName": "Smokie_Card",
+    "name": "Smokie Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Hiding."
+  },
+  {
+    "id": 4045,
+    "AegisName": "Horn_Card",
+    "name": "Horn Card",
+    "type": "Card",
+    "Description": "Reduce damage from Long Range attacks by 35%."
+  },
+  {
+    "id": 4046,
+    "AegisName": "Martin_Card",
+    "name": "Martin Card",
+    "type": "Card",
+    "Description": "Increase resistance to Blind status by 20%.\nDEF + 1"
+  },
+  {
+    "id": 4047,
+    "AegisName": "Ghostring_Card",
+    "name": "Ghostring Card",
+    "type": "Card",
+    "Description": "Enchant an Armor with the Ghost Property.\nHP Recovery - 25%"
+  },
+  {
+    "id": 4048,
+    "AegisName": "Poison_Spore_Card",
+    "name": "Poison Spore Card",
+    "type": "Card",
+    "Description": "Enables use of Level 3 Envenom."
+  },
+  {
+    "id": 4049,
+    "AegisName": "Vadon_Card",
+    "name": "Vadon Card",
+    "type": "Card",
+    "Description": "Increase damage inflicted upon Fire Property enemies by 20%."
+  },
+  {
+    "id": 4050,
+    "AegisName": "Thief_Bug_Male_Card",
+    "name": "Male Thief Bug Card",
+    "type": "Card",
+    "Description": "AGI + 2"
+  },
+  {
+    "id": 4051,
+    "AegisName": "Yoyo_Card",
+    "name": "Yoyo Card",
+    "type": "Card",
+    "Description": "AGI + 1\nPerfect Dodge + 5"
+  },
+  {
+    "id": 4052,
+    "AegisName": "Elder_Wilow_Card",
+    "name": "Elder Willow Card",
+    "type": "Card",
+    "Description": "INT + 2"
+  },
+  {
+    "id": 4053,
+    "AegisName": "Vitata_Card",
+    "name": "Vitata Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Heal.\nIncreases SP consumption of all skills by 25%."
+  },
+  {
+    "id": 4054,
+    "AegisName": "Angeling_Card",
+    "name": "Angeling Card",
+    "type": "Card",
+    "Description": "Blesses an Armor with the Holy Property."
+  },
+  {
+    "id": 4055,
+    "AegisName": "Marina_Card",
+    "name": "Marina Card",
+    "type": "Card",
+    "Description": "Freeze an enemy when you attack (Success Chance 5%).\nATK + 5"
+  },
+  {
+    "id": 4056,
+    "AegisName": "Dustiness_Card",
+    "name": "Dustiness Card",
+    "type": "Card",
+    "Description": "Increase resistance to the Wind Property by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4057,
+    "AegisName": "Metaller_Card",
+    "name": "Metaller Card",
+    "type": "Card",
+    "Description": "Silence an enemy when you attack (Success Chance 5%).\nATK + 5"
+  },
+  {
+    "id": 4058,
+    "AegisName": "Thara_Frog_Card",
+    "name": "Thara Frog Card",
+    "type": "Card",
+    "Description": "Reduce damage from DemiHuman monster by 30%."
+  },
+  {
+    "id": 4059,
+    "AegisName": "Soldier_Andre_Card",
+    "name": "Soldier Andre Card",
+    "type": "Card",
+    "Description": "Reduce damage from Plant monster by 30%."
+  },
+  {
+    "id": 4060,
+    "AegisName": "Goblin_Card",
+    "name": "Goblin Card",
+    "type": "Card",
+    "Description": "Increase damage on Brute monster by 20%."
+  },
+  {
+    "id": 4061,
+    "AegisName": "Cornutus_Card",
+    "name": "Cornutus Card",
+    "type": "Card",
+    "Description": "Make an armor indestructible (except in upgrade attempts).\nDEF + 1"
+  },
+  {
+    "id": 4062,
+    "AegisName": "Anacondaq_Card",
+    "name": "Anacondaq Card",
+    "type": "Card",
+    "Description": "Increase damage on Poison Property enemies by 20%."
+  },
+  {
+    "id": 4063,
+    "AegisName": "Caramel_Card",
+    "name": "Caramel Card",
+    "type": "Card",
+    "Description": "Increase damage on Insect monster by 20%."
+  },
+  {
+    "id": 4064,
+    "AegisName": "Zerom_Card",
+    "name": "Zerom Card",
+    "type": "Card",
+    "Description": "DEX + 3"
+  },
+  {
+    "id": 4065,
+    "AegisName": "Kaho_Card",
+    "name": "Kaho Card",
+    "type": "Card",
+    "Description": "Increase damage on Earth Property enemies by 20%."
+  },
+  {
+    "id": 4066,
+    "AegisName": "Orc_Warrior_Card",
+    "name": "Orc Warrior Card",
+    "type": "Card",
+    "Description": "Reduce damage from Brute monster by 30%."
+  },
+  {
+    "id": 4067,
+    "AegisName": "Megalodon_Card",
+    "name": "Megalodon Card",
+    "type": "Card",
+    "Description": "Increase resistance to the Freeze status by 20%.\nDEF + 1"
+  },
+  {
+    "id": 4068,
+    "AegisName": "Scorpion_Card",
+    "name": "Scorpion Card",
+    "type": "Card",
+    "Description": "Increase damage on Plant monster by 20%."
+  },
+  {
+    "id": 4069,
+    "AegisName": "Drainliar_Card",
+    "name": "Drainliar Card",
+    "type": "Card",
+    "Description": "Increase damage on Water Property enemies by 20%."
+  },
+  {
+    "id": 4070,
+    "AegisName": "Eggyra_Card",
+    "name": "Eggyra Card",
+    "type": "Card",
+    "Description": "SP Recovery + 15%"
+  },
+  {
+    "id": 4071,
+    "AegisName": "Orc_Zombie_Card",
+    "name": "Orc Zombie Card",
+    "type": "Card",
+    "Description": "Increase resistance to Undead Property attacks by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4072,
+    "AegisName": "Golem_Card",
+    "name": "Golem Card",
+    "type": "Card",
+    "Description": "Make a weapon indestructible (except in upgrade attempts).\nATK + 5"
+  },
+  {
+    "id": 4073,
+    "AegisName": "Pirate_Skel_Card",
+    "name": "Pirate Skeleton Card",
+    "type": "Card",
+    "Description": "Enables use of Level 5 Discount."
+  },
+  {
+    "id": 4074,
+    "AegisName": "BigFoot_Card",
+    "name": "Bigfoot Card",
+    "type": "Card",
+    "Description": "Reduce damage from Insect monster by 30%.\n[Grizzly Card Combo]"
+  },
+  {
+    "id": 4075,
+    "AegisName": "Argos_Card",
+    "name": "Argos Card",
+    "type": "Card",
+    "Description": "Increase resistance to Stone Curse status by 20%.\nDEF + 1"
+  },
+  {
+    "id": 4076,
+    "AegisName": "Magnolia_Card",
+    "name": "Magnolia Card",
+    "type": "Card",
+    "Description": "Curse an enemy when you attack (Success Chance 5%).\nATK + 5"
+  },
+  {
+    "id": 4077,
+    "AegisName": "Phen_Card",
+    "name": "Phen Card",
+    "type": "Card",
+    "Description": "Skill casting can not be interrupted.\nIncrease Casting Time by 25%."
+  },
+  {
+    "id": 4078,
+    "AegisName": "Savage_Card",
+    "name": "Savage Card",
+    "type": "Card",
+    "Description": "VIT + 3"
+  },
+  {
+    "id": 4079,
+    "AegisName": "Mantis_Card",
+    "name": "Mantis Card",
+    "type": "Card",
+    "Description": "STR + 3"
+  },
+  {
+    "id": 4080,
+    "AegisName": "Flora_Card",
+    "name": "Flora Card",
+    "type": "Card",
+    "Description": "Increase damage on Fish monster by 20%."
+  },
+  {
+    "id": 4081,
+    "AegisName": "Hode_Card",
+    "name": "Hode Card",
+    "type": "Card",
+    "Description": "Increase resistance to Earth Property attacks by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4082,
+    "AegisName": "Desert_Wolf_Card",
+    "name": "Desert Wolf Card",
+    "type": "Card",
+    "Description": "Increase damage inflicted on Small size monster by 15%.\nATK + 5"
+  },
+  {
+    "id": 4083,
+    "AegisName": "Rafflesia_Card",
+    "name": "Rafflesia Card",
+    "type": "Card",
+    "Description": "Reduce damage from Fish monster by 30%."
+  },
+  {
+    "id": 4084,
+    "AegisName": "Marine_Sphere_Card",
+    "name": "Marine Sphere Card",
+    "type": "Card",
+    "Description": "Enables use of Level 3 Magnum Break."
+  },
+  {
+    "id": 4085,
+    "AegisName": "Orc_Skeleton_Card",
+    "name": "Orc Skeleton Card",
+    "type": "Card",
+    "Description": "Increase damage on Holy Property enemies by 20%."
+  },
+  {
+    "id": 4086,
+    "AegisName": "Soldier_Skeleton_Card",
+    "name": "Soldier Skeleton Card",
+    "type": "Card",
+    "Description": "Critical Rate + 9%"
+  },
+  {
+    "id": 4087,
+    "AegisName": "Giearth_Card",
+    "name": "Giearth Card",
+    "type": "Card",
+    "Description": "Gain immunity to the Confusion status.\nIncrease resistance to Earth Property attacks by 15%."
+  },
+  {
+    "id": 4088,
+    "AegisName": "Frilldora_Card",
+    "name": "Frilldora Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Cloaking."
+  },
+  {
+    "id": 4089,
+    "AegisName": "Sword_Fish_Card",
+    "name": "Swordfish Card",
+    "type": "Card",
+    "Description": "Enchant Armors with the Water Property.\nDEF + 1"
+  },
+  {
+    "id": 4090,
+    "AegisName": "Munak_Card",
+    "name": "Munak Card",
+    "type": "Card",
+    "Description": "Increase resistance to Stone Curse status by 15% and Earth Property attacks by 5%.\nDEF + 1\n[Bongun \u0026 Hyegun Card Combo]"
+  },
+  {
+    "id": 4091,
+    "AegisName": "Kobold_Card",
+    "name": "Kobold Card",
+    "type": "Card",
+    "Description": "Critical Rate + 4%\nSTR + 1"
+  },
+  {
+    "id": 4092,
+    "AegisName": "Skel_Worker_Card",
+    "name": "Skeleton Worker Card",
+    "type": "Card",
+    "Description": "Increase damage inflicted on Medium size monster by 15%.\nATK + 5"
+  },
+  {
+    "id": 4093,
+    "AegisName": "Obeaune_Card",
+    "name": "Obeaune Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Cure."
+  },
+  {
+    "id": 4094,
+    "AegisName": "Archer_Skeleton_Card",
+    "name": "Archer Skeleton Card",
+    "type": "Card",
+    "Description": "Ranged Attack Damage + 10%."
+  },
+  {
+    "id": 4095,
+    "AegisName": "Marse_Card",
+    "name": "Marse Card",
+    "type": "Card",
+    "Description": "Increase resistance against Water Property by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4096,
+    "AegisName": "Zenorc_Card",
+    "name": "Zenorc Card",
+    "type": "Card",
+    "Description": "Poison an enemy when you Attack (Success Chance 4%).\nATK + 10"
+  },
+  {
+    "id": 4097,
+    "AegisName": "Matyr_Card",
+    "name": "Matyr Card",
+    "type": "Card",
+    "Description": "Maximum HP + 10%\nAGI + 1"
+  },
+  {
+    "id": 4098,
+    "AegisName": "Dokebi_Card",
+    "name": "Dokebi Card",
+    "type": "Card",
+    "Description": "Enchant Armors with the Wind Property.\nDEF + 1"
+  },
+  {
+    "id": 4099,
+    "AegisName": "Pasana_Card",
+    "name": "Pasana Card",
+    "type": "Card",
+    "Description": "Enchant Armors with the Fire Property.\nDEF + 1"
+  },
+  {
+    "id": 4100,
+    "AegisName": "Sohee_Card",
+    "name": "Sohee Card",
+    "type": "Card",
+    "Description": "Maximum SP + 15%\nSP Recovery + 3%"
+  },
+  {
+    "id": 4101,
+    "AegisName": "Sand_Man_Card",
+    "name": "Sandman Card",
+    "type": "Card",
+    "Description": "Enchant Armors with the Earth Property.\nDEF + 1"
+  },
+  {
+    "id": 4102,
+    "AegisName": "Whisper_Card",
+    "name": "Whisper Card",
+    "type": "Card",
+    "Description": "Flee Rate + 20\nIncrease damage from Ghost Property attacks by 50%."
+  },
+  {
+    "id": 4103,
+    "AegisName": "Horong_Card",
+    "name": "Horong Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Sight."
+  },
+  {
+    "id": 4104,
+    "AegisName": "Requiem_Card",
+    "name": "Requiem Card",
+    "type": "Card",
+    "Description": "Causes Confusion on an enemy when you attack (Success Chance 5%)."
+  },
+  {
+    "id": 4105,
+    "AegisName": "Marc_Card",
+    "name": "Marc Card",
+    "type": "Card",
+    "Description": "Gain protection from the Freeze status and increase resistance to Water Property by 5%."
+  },
+  {
+    "id": 4106,
+    "AegisName": "Mummy_Card",
+    "name": "Mummy Card",
+    "type": "Card",
+    "Description": "HIT + 20\n[Ancient Mummy Card Combo]"
+  },
+  {
+    "id": 4107,
+    "AegisName": "Verit_Card",
+    "name": "Verit Card",
+    "type": "Card",
+    "Description": "Maximum HP and SP + 8%"
+  },
+  {
+    "id": 4108,
+    "AegisName": "Myst_Card",
+    "name": "Myst Card",
+    "type": "Card",
+    "Description": "Increase resistance to the Poison Property by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4109,
+    "AegisName": "Jakk_Card",
+    "name": "Jakk Card",
+    "type": "Card",
+    "Description": "Increase resistance to the Fire Property by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4110,
+    "AegisName": "Ghoul_Card",
+    "name": "Ghoul Card",
+    "type": "Card",
+    "Description": "Increases resistance to the Poison status by 20%.\nDEF + 1"
+  },
+  {
+    "id": 4111,
+    "AegisName": "Strouf_Card",
+    "name": "Strouf Card",
+    "type": "Card",
+    "Description": "Increase damage on Demon monster by 20%."
+  },
+  {
+    "id": 4112,
+    "AegisName": "Marduk_Card",
+    "name": "Marduk Card",
+    "type": "Card",
+    "Description": "Gain immunity to the Silence status."
+  },
+  {
+    "id": 4113,
+    "AegisName": "Marionette_Card",
+    "name": "Marionette Card",
+    "type": "Card",
+    "Description": "Increase resistance to Ghost Property by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4114,
+    "AegisName": "Argiope_Card",
+    "name": "Argiope Card",
+    "type": "Card",
+    "Description": "Enchant an Armor with the Poison Property.\nDEF + 1"
+  },
+  {
+    "id": 4115,
+    "AegisName": "Hunter_Fly_Card",
+    "name": "Hunter Fly Card",
+    "type": "Card",
+    "Description": "Enable a 3% chance of gaining 15% of the damage inflicted on an enemy as HP with each attack."
+  },
+  {
+    "id": 4116,
+    "AegisName": "Isis_Card",
+    "name": "Isis Card",
+    "type": "Card",
+    "Description": "Increase resistance to the Shadow Property by 30%.\nFlee Rate + 5"
+  },
+  {
+    "id": 4117,
+    "AegisName": "Side_Winder_Card",
+    "name": "Sidewinder Card",
+    "type": "Card",
+    "Description": "Causes Double Attack by 5% chance.\nIf character has learned Double Attack, this card won't take effect."
+  },
+  {
+    "id": 4118,
+    "AegisName": "Petit_Card",
+    "name": "Earth Petite Card",
+    "type": "Card",
+    "Description": "Increase damage on Dragon monster by 20%."
+  },
+  {
+    "id": 4119,
+    "AegisName": "Bathory_Card",
+    "name": "Bathory Card",
+    "type": "Card",
+    "Description": "Enchant Armors with the Shadow Property."
+  },
+  {
+    "id": 4120,
+    "AegisName": "Petit__Card",
+    "name": "Sky Petite Card",
+    "type": "Card",
+    "Description": "Reduce damage from Dragon monster by 30%."
+  },
+  {
+    "id": 4121,
+    "AegisName": "Phreeoni_Card",
+    "name": "Phreeoni Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "HIT + 100"
+  },
+  {
+    "id": 4122,
+    "AegisName": "Deviruchi_Card",
+    "name": "Deviruchi Card",
+    "type": "Card",
+    "Description": "Gain immunity to the Blind status.\nSTR + 1"
+  },
+  {
+    "id": 4123,
+    "AegisName": "Eddga_Card",
+    "name": "Eddga Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.\nMaximum HP - 25%"
+  },
+  {
+    "id": 4124,
+    "AegisName": "Medusa_Card",
+    "name": "Medusa Card",
+    "type": "Card",
+    "Description": "Gain immunity to the Stone Curse status.\nReduce damage from Demon monster by 15%."
+  },
+  {
+    "id": 4125,
+    "AegisName": "Deviace_Card",
+    "name": "Deviace Card",
+    "type": "Card",
+    "Description": "Increase damage on DemiHuman, Brute, Plant and Insect monster by 7%."
+  },
+  {
+    "id": 4126,
+    "AegisName": "Minorous_Card",
+    "name": "Minorous Card",
+    "type": "Card",
+    "Description": "Increase damage inflicted on Large size monster by 15%.\nATK + 5"
+  },
+  {
+    "id": 4127,
+    "AegisName": "Nightmare_Card",
+    "name": "Nightmare Card",
+    "type": "Card",
+    "Description": "Gain immunity to the Sleep status.\nAGI + 1\n[Nightmare Terror Card Combo]"
+  },
+  {
+    "id": 4128,
+    "AegisName": "Golden_Bug_Card",
+    "name": "Golden Thief Bug Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Nullify all magic spells, including supportive skills, that target the owner at the cost of doubling SP Consumption cost when using skills."
+  },
+  {
+    "id": 4129,
+    "AegisName": "Baphomet__Card",
+    "name": "Bapho Jr. Card",
+    "type": "Card",
+    "Description": "AGI + 3, Critical Rate + 1%"
+  },
+  {
+    "id": 4130,
+    "AegisName": "Scorpion_King_Card",
+    "name": "Scorpion King Card",
+    "type": "Card",
+    "Description": "Increase damage on Undead monster by 20%."
+  },
+  {
+    "id": 4131,
+    "AegisName": "Moonlight_Flower_Card",
+    "name": "Moonlight Flower Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enable faster Movement Speed so long as the Footgear to which this card is compounded is equipped."
+  },
+  {
+    "id": 4132,
+    "AegisName": "Mistress_Card",
+    "name": "Mistress Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Nullify the Gemstone requirement of certain spells at the cost of increasing SP Consumption by 25% when using skills."
+  },
+  {
+    "id": 4133,
+    "AegisName": "Daydric_Card",
+    "name": "Raydric Card",
+    "type": "Card",
+    "Description": "Increase resistance to Neutral Property attacks by 20%."
+  },
+  {
+    "id": 4134,
+    "AegisName": "Dracula_Card",
+    "name": "Dracula Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enable a 10% chance of gaining 5% of the damage inflicted upon an enemy as SP with each attack."
+  },
+  {
+    "id": 4135,
+    "AegisName": "Orc_Load_Card",
+    "name": "Orc Lord Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Reflect 30% of all Physical Melee Damage back to the enemy which inflicted it."
+  },
+  {
+    "id": 4136,
+    "AegisName": "Khalitzburg_Card",
+    "name": "Khalitzburg Card",
+    "type": "Card",
+    "Description": "Reduce damage from Demon monster by 30%."
+  },
+  {
+    "id": 4137,
+    "AegisName": "Drake_Card",
+    "name": "Drake Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Nullify reduction in damage inflicted on enemies resulting from enemy's size."
+  },
+  {
+    "id": 4138,
+    "AegisName": "Anubis_Card",
+    "name": "Anubis Card",
+    "type": "Card",
+    "Description": "Reduce damage from Angel monster by 30%."
+  },
+  {
+    "id": 4139,
+    "AegisName": "Joker_Card",
+    "name": "Joker Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Steal."
+  },
+  {
+    "id": 4140,
+    "AegisName": "Knight_Of_Abyss_Card",
+    "name": "Abysmal Knight Card",
+    "type": "Card",
+    "Description": "Increase damage on Boss monster by 25%."
+  },
+  {
+    "id": 4141,
+    "AegisName": "Evil_Druid_Card",
+    "name": "Evil Druid Card",
+    "type": "Card",
+    "Description": "Enchant Armor with the Undead Property.\nINT + 1, DEF + 1"
+  },
+  {
+    "id": 4142,
+    "AegisName": "Doppelganger_Card",
+    "name": "Doppelganger Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped."
+  },
+  {
+    "id": 4143,
+    "AegisName": "Orc_Hero_Card",
+    "name": "Orc Hero Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Gain immunity to the Stun status.\nVIT + 3"
+  },
+  {
+    "id": 4144,
+    "AegisName": "Osiris_Card",
+    "name": "Osiris Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enable full HP and SP restoration when resurrected."
+  },
+  {
+    "id": 4145,
+    "AegisName": "Berzebub_Card",
+    "name": "Berzebub Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Reduce Casting Time by 30%."
+  },
+  {
+    "id": 4146,
+    "AegisName": "Maya_Card",
+    "name": "Maya Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Reflect single target attack Magic back at the caster (Success Chance 50%)."
+  },
+  {
+    "id": 4147,
+    "AegisName": "Baphomet_Card",
+    "name": "Baphomet Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Endow a weapon with damage that will splash 9 cells around the character with each attack.\nHIT - 10"
+  },
+  {
+    "id": 4148,
+    "AegisName": "Pharaoh_Card",
+    "name": "Pharaoh Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Reduce SP Consumption of skills by 30%."
+  },
+  {
+    "id": 4149,
+    "AegisName": "Gargoyle_Card",
+    "name": "Gargoyle Card",
+    "type": "Card",
+    "Description": "Every time you kill an Insect monster, there is a 1% chance of gaining a \"Box of Thunder\"."
+  },
+  {
+    "id": 4150,
+    "AegisName": "Goat_Card",
+    "name": "Goat Card",
+    "type": "Card",
+    "Description": "If the card is compounded on an armor that is refined to +5 or below, DEF +2 and MDEF +5."
+  },
+  {
+    "id": 4151,
+    "AegisName": "Gajomart_Card",
+    "name": "Gajomart Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Plant monsters.\nReceive 20% more damage from Plant monster."
+  },
+  {
+    "id": 4152,
+    "AegisName": "Galapago_Card",
+    "name": "Galapago Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Apple Juice', 'Banana Juice' or 'Carrot Juice' each time an Insect monster is killed.\nJuice items restore 50% more HP."
+  },
+  {
+    "id": 4153,
+    "AegisName": "Crab_Card",
+    "name": "Crab Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Asters.\nATK + 5\n[+ Shell Fish \u0026 Aster]\nInflict 30% more damage on Water Property enemies.\n30% chance of gaining 'Raw Fish' item each time a Fish monster is killed."
+  },
+  {
+    "id": 4154,
+    "AegisName": "Rice_Cake_Boy_Card",
+    "name": "Dumpling Child Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Candy' or 'Candy Cane' each time a DemiHuman monster is killed.\nCandy and Candy Cane restore 50% more HP."
+  },
+  {
+    "id": 4155,
+    "AegisName": "Goblin_Leader_Card",
+    "name": "Goblin Leader Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Goblins."
+  },
+  {
+    "id": 4156,
+    "AegisName": "Steam_Goblin_Card",
+    "name": "Goblin Steamrider Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Formless monster."
+  },
+  {
+    "id": 4157,
+    "AegisName": "Goblin_Archer_Card",
+    "name": "Goblin Archer Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Undead monster."
+  },
+  {
+    "id": 4158,
+    "AegisName": "Flying_Deleter_Card",
+    "name": "Sky Deleter Card",
+    "type": "Card",
+    "Description": "Reduces natural HP recovery by 100%.\nGain 100 HP each time an enemy is killed by a Physical Melee Damage."
+  },
+  {
+    "id": 4159,
+    "AegisName": "Nine_Tail_Card",
+    "name": "Nine Tail Card",
+    "type": "Card",
+    "Description": "AGI + 2\n[Refine Rate +9 or higher]\nFlee Rate + 20"
+  },
+  {
+    "id": 4160,
+    "AegisName": "Antique_Firelock_Card",
+    "name": "Firelock Soldier Card",
+    "type": "Card",
+    "Description": "STR + 2\n[Refine Rate +9 or higher]\nMaximum HP and SP + 10%"
+  },
+  {
+    "id": 4161,
+    "AegisName": "Grand_Peco_Card",
+    "name": "Grand Peco Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 1 Gloria on the user when the user receives Physical Damage.\n[+ Peco Peco Card]\nDEF + 3\nVIT + 3"
+  },
+  {
+    "id": 4162,
+    "AegisName": "Grizzly_Card",
+    "name": "Grizzly Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting 'Blind' on an enemy when the user receives Physical Damage.\n[+ Bigfoot Card]\n'Blind' chance increases to 9%."
+  },
+  {
+    "id": 4163,
+    "AegisName": "Gryphon_Card",
+    "name": "Gryphon Card",
+    "type": "Card",
+    "Description": "Flee Rate + 2\nCritical Rate + 7\n[Swordman Class]\nAdd a 1% chance of auto casting Level 5 Bowling Bash on the enemy when attacking."
+  },
+  {
+    "id": 4164,
+    "AegisName": "Gullinbursti_Card",
+    "name": "Gullinbursti Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points each time a Fish monster is killed.\nReceive 20% more damage from Fish monster."
+  },
+  {
+    "id": 4165,
+    "AegisName": "Gig_Card",
+    "name": "Gig Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time an Insect monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4166,
+    "AegisName": "Nightmare_Terror_Card",
+    "name": "Nightmare Terror Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting 'Curse' on an enemy when the user receives Physical Damage.\n[+ Nightmare Card]\n'Curse' chance increases to 9%."
+  },
+  {
+    "id": 4167,
+    "AegisName": "Neraid_Card",
+    "name": "Nereid Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a Brute monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4168,
+    "AegisName": "Dark_Lord_Card",
+    "name": "Dark Lord Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Add a 10% chance of auto casting Level 5 Meteor Storm on an enemy when the user receives Physical Damage.\n[+ Dark Illusion Card]\nMaximum HP and SP + 20%.\nReduce cast time by an additional 10%."
+  },
+  {
+    "id": 4169,
+    "AegisName": "Dark_Illusion_Card",
+    "name": "Dark Illusion Card",
+    "type": "Card",
+    "Description": "Maximum HP and SP - 10%\nReduce Casting Time by 10%.\n[+ Dark Lord Card]\nReduce Casting Time by 20%.\nReduce cast time by an additional 10%."
+  },
+  {
+    "id": 4170,
+    "AegisName": "Dark_Frame_Card",
+    "name": "Dark Frame Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Stone Curse' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4171,
+    "AegisName": "Dark_Priest_Card",
+    "name": "Dark Priest Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of decreasing enemy's SP amount by 10% when attacking.\n[Sage, Professor]\nGains 1 SP every time when doing physical attack on monsters."
+  },
+  {
+    "id": 4172,
+    "AegisName": "The_Paper_Card",
+    "name": "The Paper Card",
+    "type": "Card",
+    "Description": "Inflict 20% more damage with Critical attacks.\nDrain 1 SP from its owner on each attack.\n[+ Wanderer, Wild Rose, Shinobi \u0026 Dancing Dragon Card]\nAGI + 5\nSTR + 5\nIntimidate Auto-Spell will not function.\nIncreases Attack Speed by 5%.\nMovement Speed + 5%\nGain 1 SP every time when attacking.\n[Thief Class]\nAllows its user to use certain skills without spending Gemstones."
+  },
+  {
+    "id": 4173,
+    "AegisName": "Demon_Pungus_Card",
+    "name": "Demon Pungus Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Sleep' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4174,
+    "AegisName": "Deviling_Card",
+    "name": "Deviling Card",
+    "type": "Card",
+    "Description": "Add a 50% resistance against Neutral Property attacks.\nReceive 50% more damage from other property attacks."
+  },
+  {
+    "id": 4175,
+    "AegisName": "Poison_Toad_Card",
+    "name": "Poisonous Toad Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 1 Envenom on an enemy when attacking."
+  },
+  {
+    "id": 4176,
+    "AegisName": "Dullahan_Card",
+    "name": "Dullahan Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Dragon monster."
+  },
+  {
+    "id": 4177,
+    "AegisName": "Dryad_Card",
+    "name": "Dryad Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Green Live' each time a Plant monster is killed.\nAdd a 10% resistance against Earth Property attacks."
+  },
+  {
+    "id": 4178,
+    "AegisName": "Dragon_Tail_Card",
+    "name": "Dragon Tail Card",
+    "type": "Card",
+    "Description": "AGI + 1\nFlee Rate + 10\nInflict 5% more damage with Double Strafing and Arrow Shower.\n[Cruiser, Anolian, Alligator \u0026 Merman Card Combo]"
+  },
+  {
+    "id": 4179,
+    "AegisName": "Dragon_Fly_Card",
+    "name": "Dragon Fly Card",
+    "type": "Card",
+    "Description": "AGI + 1\n[+ Chonchon Card]\nFlee Rate + 18"
+  },
+  {
+    "id": 4180,
+    "AegisName": "Driller_Card",
+    "name": "Driller Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a Dragon monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4181,
+    "AegisName": "Disguise_Card",
+    "name": "Disguise Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting 'Silence' on an enemy when the user receives Physical Damage.\n[Base Vitality \u003e= 77]\nAdd a chance of auto casting 'Silence' is increased to 9%."
+  },
+  {
+    "id": 4182,
+    "AegisName": "Diabolic_Card",
+    "name": "Diabolic Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a Demon monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4183,
+    "AegisName": "Vagabond_Wolf_Card",
+    "name": "Vagabond Wolf Card",
+    "type": "Card",
+    "Description": "STR + 1\n[+ Wolf Card]\nFlee Rate + 18"
+  },
+  {
+    "id": 4184,
+    "AegisName": "Lava_Golem_Card",
+    "name": "Lava Golem Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Golems."
+  },
+  {
+    "id": 4185,
+    "AegisName": "Rideword_Card",
+    "name": "Rideword Card",
+    "type": "Card",
+    "Description": "INT + 1\n[Acolyte Class]\nINT + 1\nMDEF + 1\n[Geographer, Enchanted Peach Tree, Cookie \u0026 Seal Card Combo]"
+  },
+  {
+    "id": 4186,
+    "AegisName": "Raggler_Card",
+    "name": "Raggler Card",
+    "type": "Card",
+    "Description": "STR + 1\nVIT + 1\n[Zipper Bear, Hylozoist, Myst Case \u0026 Baby Leopard Card Combo]"
+  },
+  {
+    "id": 4187,
+    "AegisName": "Raydric_Archer_Card",
+    "name": "Raydric Archer Card",
+    "type": "Card",
+    "Description": "Every time you kill a Demon monster, there is a 1% chance of gaining a \"Box of Resentment\"."
+  },
+  {
+    "id": 4188,
+    "AegisName": "Leib_Olmai_Card",
+    "name": "Leib Olmai Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Red Blood' each time a Brute monster is killed.\nAdd a 10% resistance against Fire Property attacks."
+  },
+  {
+    "id": 4189,
+    "AegisName": "Wraith_Dead_Card",
+    "name": "Wraith Dead Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Curse' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4190,
+    "AegisName": "Wraith_Card",
+    "name": "Wraith Card",
+    "type": "Card",
+    "Description": "Every time you kill an Undead monster, you can receive a \"Giggling Box\"."
+  },
+  {
+    "id": 4191,
+    "AegisName": "Loli_Ruri_Card",
+    "name": "Loli Ruri Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 3 Heal on the user when the user receives Physical Damage.\n[+ Parasite, Miyabi Doll, Evil Nymph, Harpy \u0026 Bloody Butterfly Card]\nDEF + 5\nMDEF + 5\nMaximum HP + 500\nInflict 10% more damage with Fire, Cold and Lightning Bolt skill.\n[Mage Class]\nMATK + 3%\nReduce Casting Time by 15%."
+  },
+  {
+    "id": 4192,
+    "AegisName": "Rotar_Zairo_Card",
+    "name": "Rotar Zairo Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Fish monster."
+  },
+  {
+    "id": 4193,
+    "AegisName": "Lude_Card",
+    "name": "Lude Card",
+    "type": "Card",
+    "Description": "[Novice, Super Novice]\nAdd a 20% chance of auto casting Level 1 Endure on the user when the user receives Physical Damage.\n[+ Quve Card]\nMaximum HP + 300"
+  },
+  {
+    "id": 4194,
+    "AegisName": "Rybio_Card",
+    "name": "Rybio Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Stun on an enemy when the user receives Physical Damage.\n[Base Dexterity \u003e= 77]\nAdd a chance of auto casting Stun is increased to 9%."
+  },
+  {
+    "id": 4195,
+    "AegisName": "Leaf_Cat_Card",
+    "name": "Leaf Cat Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Crystal Blue' each time a Fish or Shellfish monster is killed.\nAdd a 10% resistance against Water Property attacks."
+  },
+  {
+    "id": 4196,
+    "AegisName": "Marin_Card",
+    "name": "Marin Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Jellopy or Large Jellopy' each time a monster is killed."
+  },
+  {
+    "id": 4197,
+    "AegisName": "Mastering_Card",
+    "name": "Mastering Card",
+    "type": "Card",
+    "Description": "LUK + 1\n[+ Poring]\nFlee Rate + 18"
+  },
+  {
+    "id": 4198,
+    "AegisName": "Maya_Puple_Card",
+    "name": "Maya Purple Card",
+    "type": "Card",
+    "Description": "Enable its user to detect hidden enemies."
+  },
+  {
+    "id": 4199,
+    "AegisName": "Merman_Card",
+    "name": "Merman Card",
+    "type": "Card",
+    "Description": "HP and SP Recovery + 10%\n[+ Cruiser, Anolian, Alligator \u0026 Dragon Tail Card]\nInflict 20% more damage with Long Range Physical attack.\nAGI + 5\nDEX + 3\nPerfect Hit (which never miss its target) + 20%.\n[Archer Class]\nReceive 5% more Experience Points from Brute monsters.\nAdd a chance of auto casting 'Coma' on Brute monster when attacking."
+  },
+  {
+    "id": 4200,
+    "AegisName": "Megalith_Card",
+    "name": "Megalith Card",
+    "type": "Card",
+    "Description": "If refine rate of compounded footgear is +5 or lower, MDEF +7."
+  },
+  {
+    "id": 4201,
+    "AegisName": "Majoruros_Card",
+    "name": "Majoruros Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting Stun on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4202,
+    "AegisName": "Civil_Servant_Card",
+    "name": "Mao Guai Card",
+    "type": "Card",
+    "Description": "Inflict 20% more damage on Ghost Property."
+  },
+  {
+    "id": 4203,
+    "AegisName": "Mutant_Dragon_Card",
+    "name": "Mutant Dragonoid Card",
+    "type": "Card",
+    "Description": "ATK + 15\nAdd a 5% chance of auto casting Level 3 Fireball on an enemy when attacking.\nIf the user has mastered the skill at Level 10, it will cast Level 10 Fire Ball."
+  },
+  {
+    "id": 4204,
+    "AegisName": "Mini_Demon_Card",
+    "name": "Mini Demon Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Brute monsters.\nReceive 20% more damage from Brute monster."
+  },
+  {
+    "id": 4205,
+    "AegisName": "Mimic_Card",
+    "name": "Mimic Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining \"Old Blue Box\" each time a monster is killed."
+  },
+  {
+    "id": 4206,
+    "AegisName": "Mystcase_Card",
+    "name": "Myst Case Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining \"Gift Box\" each time a monster is killed.\n[Raggler, Zipper Bear, Hylozoist \u0026 Baby Leopard Card Combo]"
+  },
+  {
+    "id": 4207,
+    "AegisName": "Mysteltainn_Card",
+    "name": "Mysteltainn Card",
+    "type": "Card",
+    "Description": "DEF + 1\nReceive 25% less damage from Small size monster."
+  },
+  {
+    "id": 4208,
+    "AegisName": "Miyabi_Ningyo_Card",
+    "name": "Miyabi Doll Card",
+    "type": "Card",
+    "Description": "Maximum SP + 10%\nInflict 5% more damage with Frost Diver skill.\n[Loli Ruri, Parasite, Evil Nymph, Harpy \u0026 Bloody Butterfly Card Combo]"
+  },
+  {
+    "id": 4209,
+    "AegisName": "Violy_Card",
+    "name": "Violy Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 1 Frost Joker on an enemy when attacking.\nIf the user has mastered the skill at Level 5, it will cast Level 5 Frost Joker."
+  },
+  {
+    "id": 4210,
+    "AegisName": "Wander_Man_Card",
+    "name": "Wanderer Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 1 Intimidate on an enemy when attacking.\n[Thief Class]\nFlee Rate + 20\n[The Paper, Wild Rose, Shinobi \u0026 Dancing Dragon Card Combo]"
+  },
+  {
+    "id": 4211,
+    "AegisName": "Vocal_Card",
+    "name": "Vocal Card",
+    "type": "Card",
+    "Description": "MDEF + 3\n[+ Rocker Card]\nFlee Rate + 18"
+  },
+  {
+    "id": 4212,
+    "AegisName": "Bon_Gun_Card",
+    "name": "Bongun Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 1 Bash on an enemy when attacking.\nThe Bash skill shoves the enemy 5 cells back.\nReceive 100% more damage from Munaks.\n[Munak \u0026 Hyegun Card Combo]"
+  },
+  {
+    "id": 4213,
+    "AegisName": "Brilight_Card",
+    "name": "Brilight Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Silence' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4214,
+    "AegisName": "Bloody_Murderer_Card",
+    "name": "Bloody Murderer Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Insect monster."
+  },
+  {
+    "id": 4215,
+    "AegisName": "Blazzer_Card",
+    "name": "Blazer Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining a Food item each time a monster is killed."
+  },
+  {
+    "id": 4216,
+    "AegisName": "Sasquatch_Card",
+    "name": "Sasquatch Card",
+    "type": "Card",
+    "Description": "Has a 6% chance of Freezing an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4217,
+    "AegisName": "Live_Peach_Tree_Card",
+    "name": "Enchanted Peach Tree Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 1 Heal on the user when attacking.\nIf the user has mastered the skill at Level 10, it will cast Level 10 Heal.\n[Geographer, Rideword, Cookie \u0026 Seal Card Combo]"
+  },
+  {
+    "id": 4218,
+    "AegisName": "Succubus_Card",
+    "name": "Succubus Card",
+    "type": "Card",
+    "Description": "VIT -3\nMaximum HP +1000\nHP Recovery -20%\n[+ Incubus Card]\nVIT +4\nHP Recovery +30%"
+  },
+  {
+    "id": 4219,
+    "AegisName": "Sageworm_Card",
+    "name": "Sage Worm Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining a Gemstone each time a monster is killed."
+  },
+  {
+    "id": 4220,
+    "AegisName": "Solider_Card",
+    "name": "Solider Card",
+    "type": "Card",
+    "Description": "DEF + 2\nMDEF + 2\n[Assaulter, Permeter, Freezer \u0026 Heater Card Combo]"
+  },
+  {
+    "id": 4221,
+    "AegisName": "Skeleton_General_Card",
+    "name": "Skeleton General Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Insect monsters.\nReceive 20% more damage from Insect monster."
+  },
+  {
+    "id": 4222,
+    "AegisName": "Skel_Prisoner_Card",
+    "name": "Skeleton Prisoner Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting 'Sleep' on an enemy when the user receives Physical Damage.\n[+ Skeleton]\n'Sleep' chance increases to 9%."
+  },
+  {
+    "id": 4223,
+    "AegisName": "Stalactic_Golem_Card",
+    "name": "Stalactic Golem Card",
+    "type": "Card",
+    "Description": "DEF + 1\nAdd a 20% resistance against Stun."
+  },
+  {
+    "id": 4224,
+    "AegisName": "Stem_Worm_Card",
+    "name": "Stem Worm Card",
+    "type": "Card",
+    "Description": "Every time you kill a Brute monster, there is a 1% chance of gaining a \"Box of Storms\"."
+  },
+  {
+    "id": 4225,
+    "AegisName": "Stone_Shooter_Card",
+    "name": "Stone Shooter Card",
+    "type": "Card",
+    "Description": "HIT + 10\nATK + 10"
+  },
+  {
+    "id": 4226,
+    "AegisName": "Sting_Card",
+    "name": "Sting Card",
+    "type": "Card",
+    "Description": "DEF + 2\n[Refine Rate +9 or higher]\nMDEF + 5"
+  },
+  {
+    "id": 4227,
+    "AegisName": "Spring_Rabbit_Card",
+    "name": "Spring Rabbit Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Meat' or 'Monster's Feed' each time a Brute monster is killed.\n'Meat' and 'Monster's Feed' restore 50% more HP."
+  },
+  {
+    "id": 4228,
+    "AegisName": "Sleeper_Card",
+    "name": "Sleeper Card",
+    "type": "Card",
+    "Description": "Every time you kill a Fish monster, there is a 1% chance of gaining a \"Box of Drowsiness\"."
+  },
+  {
+    "id": 4229,
+    "AegisName": "C_Tower_Manager_Card",
+    "name": "Tower Keeper Card",
+    "type": "Card",
+    "Description": "INT + 1\nReduce Casting Time by 5%.\n[+ Alarm, Clock \u0026 Punk Card]\nMDEF + 3\nDEF + 3"
+  },
+  {
+    "id": 4230,
+    "AegisName": "Shinobi_Card",
+    "name": "Shinobi Card",
+    "type": "Card",
+    "Description": "AGI + 1\nAdd a 10% chance of auto casting Level 5 Cloaking on the user when the user receives Physical Damage.\nIf you equip this without learning Level 3 Cloaking or higher, it only activates when you are next to the wall.\n[Wanderer, The Paper, Wild Rose \u0026 Dancing Dragon Card Combo]"
+  },
+  {
+    "id": 4231,
+    "AegisName": "Increase_Soil_Card",
+    "name": "Mi Gao Card",
+    "type": "Card",
+    "Description": "Receive 50% less damage from Guardians during War of Emperium hours."
+  },
+  {
+    "id": 4232,
+    "AegisName": "Wild_Ginseng_Card",
+    "name": "Hermit Plant Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Red Herb', 'Yellow Herb' or 'White Herb' each time a Plant monster is killed.\nHerb items restore 50% more HP."
+  },
+  {
+    "id": 4233,
+    "AegisName": "Baby_Leopard_Card",
+    "name": "Baby Leopard Card",
+    "type": "Card",
+    "Description": "LUK + 3\n[Merchant Class]\nMake an armor indestructible (except in upgrade attempts).\n[Raggler, Zipper Bear, Hylozoist \u0026 Myst Case Card Combo]"
+  },
+  {
+    "id": 4234,
+    "AegisName": "Anolian_Card",
+    "name": "Anolian Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Level 1 Attention Concentrate on the user when the user receives Physical Damage.\nIf the user has mastered the skill at Level 10, it will cast Level 10 Attention Concentrate.\n[Cruiser, Alligator, Merman \u0026 Dragon Tail Card Combo]"
+  },
+  {
+    "id": 4235,
+    "AegisName": "Cookie_XMAS_Card",
+    "name": "Christmas Cookie Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Angel monsters.\nReceive 20% more damage from Angel monster."
+  },
+  {
+    "id": 4236,
+    "AegisName": "Amon_Ra_Card",
+    "name": "Amon Ra Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "All Stats + 1\nAdd a 3% chance of auto casting Level 10 Kyrie Eleison on the user when the user receives Physical Damage.\n[Base Intelligence \u003e= 99]\nAdd a chance of auto casting Level 10 Kyrie Eleison is increased to 10%."
+  },
+  {
+    "id": 4237,
+    "AegisName": "Owl_Duke_Card",
+    "name": "Owl Duke Card",
+    "type": "Card",
+    "Description": "Add a 0.3% chance of auto casting Level 3 Impositio Manus on the user when attacking.\n[+ Owl Baron Card]\nAdd a 2% chance of auto casting Level 5 Lightning Bolt on an enemy when attacking."
+  },
+  {
+    "id": 4238,
+    "AegisName": "Owl_Baron_Card",
+    "name": "Owl Baron Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Level 1 Lex Aeterna on an enemy when attacking.\n[Owl Duke Card Combo]"
+  },
+  {
+    "id": 4239,
+    "AegisName": "Iron_Fist_Card",
+    "name": "Iron Fist Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Formless monsters. In a shared-party, any member can kill the Formless monster, but only the wearer will get the extra EXP.\nReceive 20% more damage from Formless monster."
+  },
+  {
+    "id": 4240,
+    "AegisName": "Arclouse_Card",
+    "name": "Arclouze Card",
+    "type": "Card",
+    "Description": "If card is compounded on a Shield with refine rate of +5 or lower, DEF + 2 and MDEF + 3."
+  },
+  {
+    "id": 4241,
+    "AegisName": "Archangeling_Card",
+    "name": "Arc Angeling Card",
+    "type": "Card",
+    "Description": "Maximum HP + 300\n[Base Lucky \u003e= 77]\nIncrease HP and SP Recovery by 100%."
+  },
+  {
+    "id": 4242,
+    "AegisName": "Apocalips_Card",
+    "name": "Apocalipse Card",
+    "type": "Card",
+    "Description": "VIT + 2\nIf compounded on an armor with Refine Rate +9 or higher, Maximum HP + 800."
+  },
+  {
+    "id": 4243,
+    "AegisName": "Antonio_Card",
+    "name": "Antonio Card",
+    "type": "Card",
+    "Description": "Add a 50% chance of auto casting Level 1 Teleport on the user when the user receives Physical Damage."
+  },
+  {
+    "id": 4244,
+    "AegisName": "Alarm_Card",
+    "name": "Alarm Card",
+    "type": "Card",
+    "Description": "Maximum HP + 300\nVIT + 1\nAdd a 20% chance of auto casting Level 1 Sight around the user when the user receives Physical Damage.\n[Clock Tower Manager, Clock \u0026 Punk Card Combo]"
+  },
+  {
+    "id": 4245,
+    "AegisName": "Am_Mut_Card",
+    "name": "Am Mut Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from DemiHuman monsters.\nReceive 20% more damage from DemiHuman monster."
+  },
+  {
+    "id": 4246,
+    "AegisName": "Assulter_Card",
+    "name": "Assaulter Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on DemiHuman monster.\n[+ Solider, Permeter, Freezer \u0026 Heater Card]\nAdd a 0.3% chance of auto casting Level 1 Weapon Perfection on the enemy when attacking.\nHP Recovery + 50%\nMaximum HP + 20%\nSTR + 10\nAdd a 5% chance of gaining 'Red Potion' item each time a monster is killed.\n[Swordman Class]\nRed, Yellow and White Potions restore 50% more HP."
+  },
+  {
+    "id": 4247,
+    "AegisName": "Aster_Card",
+    "name": "Aster Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Shell Fishes.\nATK + 5\n[Crab \u0026 Shell Fish Card Combo]"
+  },
+  {
+    "id": 4248,
+    "AegisName": "Ancient_Mummy_Card",
+    "name": "Ancient Mummy Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Level 5 Signum Crucis when the user receives Physical Damage.\n[+ Mummy Card]\nPerfect Hit (which never miss its target) + 20"
+  },
+  {
+    "id": 4249,
+    "AegisName": "Ancient_Worm_Card",
+    "name": "Ancient Worm Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Demon monsters.\nReceive 20% more damage from Demon monster."
+  },
+  {
+    "id": 4250,
+    "AegisName": "Executioner_Card",
+    "name": "Executioner Card",
+    "type": "Card",
+    "Description": "DEF + 1\nReceive 25% less damage from Large size monster."
+  },
+  {
+    "id": 4251,
+    "AegisName": "Elder_Card",
+    "name": "Elder Card",
+    "type": "Card",
+    "Description": "Inflict 40% more damage on Guardians during War of Emperium hours."
+  },
+  {
+    "id": 4252,
+    "AegisName": "Alligator_Card",
+    "name": "Alligator Card",
+    "type": "Card",
+    "Description": "Receive 5% less damage from Long Range Physical attack.\n[Cruiser, Anolian, Merman \u0026 Dragon Tail Card Combo]"
+  },
+  {
+    "id": 4253,
+    "AegisName": "Alice_Card",
+    "name": "Alice Card",
+    "type": "Card",
+    "Description": "Receive 40% less damage from Boss monster.\nReceive 40% more damage from normal monster."
+  },
+  {
+    "id": 4254,
+    "AegisName": "Tirfing_Card",
+    "name": "Ogretooth Card",
+    "type": "Card",
+    "Description": "DEF + 1\nReceive 25% less damage from Medium size monster."
+  },
+  {
+    "id": 4255,
+    "AegisName": "Orc_Lady_Card",
+    "name": "Orc Lady Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Every Orc except Orc Lord and Orc Hero."
+  },
+  {
+    "id": 4256,
+    "AegisName": "Orc_Archer_Card",
+    "name": "Orc Archer Card",
+    "type": "Card",
+    "Description": "Every time you kill a DemiHuman monster, there is a 1% chance of gaining a \"Box of Panting\"."
+  },
+  {
+    "id": 4257,
+    "AegisName": "Wild_Rose_Card",
+    "name": "Wild Rose Card",
+    "type": "Card",
+    "Description": "AGI + 1\n[Thief Class]\nPerfect Dodge + 5\n[Wanderer, The Paper, Shinobi \u0026 Dancing Dragon Card Combo]"
+  },
+  {
+    "id": 4258,
+    "AegisName": "Wicked_Nymph_Card",
+    "name": "Evil Nymph Card",
+    "type": "Card",
+    "Description": "INT + 1\nMaximum SP + 50\n[Loli Ruri, Parasite, Miyabi Doll, Harpy \u0026 Bloody Butterfly Card Combo]"
+  },
+  {
+    "id": 4259,
+    "AegisName": "Wooden_Golem_Card",
+    "name": "Wooden Golem Card",
+    "type": "Card",
+    "Description": "HP Recovery + 30%\nDEF + 1"
+  },
+  {
+    "id": 4260,
+    "AegisName": "Wootan_Shooter_Card",
+    "name": "Wootan Shooter Card",
+    "type": "Card",
+    "Description": "DEF + 1\nAdd a 20% resistance against Confusion."
+  },
+  {
+    "id": 4261,
+    "AegisName": "Wootan_Fighter_Card",
+    "name": "Wootan Fighter Card",
+    "type": "Card",
+    "Description": "DEF + 1\nAdd a 20% resistance against Bleeding."
+  },
+  {
+    "id": 4262,
+    "AegisName": "Evil_Cloud_Hermit_Card",
+    "name": "Cloud Hermit Card",
+    "type": "Card",
+    "Description": "Every time you kill a Plant monster, there is a 1% chance of gaining a \"Box of Gloom\"."
+  },
+  {
+    "id": 4263,
+    "AegisName": "Incant_Samurai_Card",
+    "name": "Samurai Spector Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Ignore normal monster's defense when attacking.\nReduces natural HP recovery by 100% and drain 666 HP every 10 seconds.\nDrain 999 HP as the weapon is unequipped."
+  },
+  {
+    "id": 4264,
+    "AegisName": "Wind_Ghost_Card",
+    "name": "Wind Ghost Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 3 Jupitel Thunder on the enemy when attacking.\nIf the user has mastered the skill at Level 10, it will cast Level 10 Jupitel Thunder."
+  },
+  {
+    "id": 4265,
+    "AegisName": "Li_Me_Mang_Ryang_Card",
+    "name": "Jing Guai Card",
+    "type": "Card",
+    "Description": "Every time you kill an Angel monster, there is a 1% chance of gaining a \"Box of Sunlight\"."
+  },
+  {
+    "id": 4266,
+    "AegisName": "Eclipse_Card",
+    "name": "Eclipse Card",
+    "type": "Card",
+    "Description": "VIT + 1\n[+ Lunatic Card]\nFlee Rate + 18"
+  },
+  {
+    "id": 4267,
+    "AegisName": "Explosion_Card",
+    "name": "Explosion Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Dragon monsters.\nReceive 20% more damage from Dragon monster."
+  },
+  {
+    "id": 4268,
+    "AegisName": "Injustice_Card",
+    "name": "Injustice Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 1 Sonic Blow on the enemy when attacking.\n[+ Zherlthsh Card]\nATK + 20\nLUK + 3"
+  },
+  {
+    "id": 4269,
+    "AegisName": "Incubus_Card",
+    "name": "Incubus Card",
+    "type": "Card",
+    "Description": "INT -3\nMaximum SP +150\nSP Recovery -20%\n[+ Succubus Card]\nINT +4\nSP Recovery +30%"
+  },
+  {
+    "id": 4270,
+    "AegisName": "Giant_Spider_Card",
+    "name": "Giant Spider Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Poison' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4271,
+    "AegisName": "Giant_Honet_Card",
+    "name": "Giant Hornet Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Wind of Verdure' each time an Insect monster is killed.\nAdd a 10% resistance against Wind Property attacks."
+  },
+  {
+    "id": 4272,
+    "AegisName": "Dancing_Dragon_Card",
+    "name": "Zhu Po Long Card",
+    "type": "Card",
+    "Description": "AGI + 1\nCritical Rate + 3\n[Wanderer, The Paper, Wild Rose \u0026 Shinobi Card Combo]"
+  },
+  {
+    "id": 4273,
+    "AegisName": "Shellfish_Card",
+    "name": "Shell Fish Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Crabs.\nATK + 5\n[Crab \u0026 Aster Card Combo]"
+  },
+  {
+    "id": 4274,
+    "AegisName": "Zombie_Master_Card",
+    "name": "Zombie Master Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time an Undead monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4275,
+    "AegisName": "Zombie_Prisoner_Card",
+    "name": "Zombie Prisoner Card",
+    "type": "Card",
+    "Description": "Receive 10% more Experience Points from Undead monsters.\nReceive 20% more damage from Undead monster."
+  },
+  {
+    "id": 4276,
+    "AegisName": "Lord_Of_Death_Card",
+    "name": "Lord of The Dead Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Add a 0.01% chance of auto casting 'Coma' on enemy when attacking.\nAdd a 5% chance of auto casting Stun, Curse, Silence, Poison, Bleeding on enemy when attacking."
+  },
+  {
+    "id": 4277,
+    "AegisName": "Zherlthsh_Card",
+    "name": "Zealotus Card",
+    "type": "Card",
+    "Description": "LUK + 2\nInflict 10% more damage with Throw Arrow and Musical Strike.\n[Injustice Card Combo]"
+  },
+  {
+    "id": 4278,
+    "AegisName": "Gibbet_Card",
+    "name": "Gibbet Card",
+    "type": "Card",
+    "Description": "[When compounded into an item with refine rate of 0~5]\nMDEF + 5"
+  },
+  {
+    "id": 4279,
+    "AegisName": "Deleter_Card",
+    "name": "Earth Deleter Card",
+    "type": "Card",
+    "Description": "Reduces natural SP recovery by 100%.\nGain 10 SP each time an enemy is killed by a Physical Melee Damage.\nDrain 100 SP as the armor is unequipped."
+  },
+  {
+    "id": 4280,
+    "AegisName": "Geographer_Card",
+    "name": "Geographer Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Level 2 Blessing on the user when the user receives Physical Damage.\nIf the user has mastered the skill at Level 10, it will cast Level 10 Blessing.\n[+ Rideword, Enchanted Peach Tree, Cookie \u0026 Seal Card]\nVIT + 10\nReduce Casting Time by 10%.\nReduce 10% SP comsumption.\n[Acolyte Class]\nReceive 30% less damage from Demon and Undead monster.\nReceive 5% more Experience Points from Demon and Undead monsters."
+  },
+  {
+    "id": 4281,
+    "AegisName": "Zipper_Bear_Card",
+    "name": "Zipper Bear Card",
+    "type": "Card",
+    "Description": "ATK + 30\nDrain 1 SP from its owner on each attack.\n[Merchant Class]\nMake a weapon indestructible (except in upgrade attempts).\n[Raggler, Hylozoist, Myst Case \u0026 Baby Leopard Card Combo]"
+  },
+  {
+    "id": 4282,
+    "AegisName": "Tengu_Card",
+    "name": "Tengu Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining a restorative item each time a monster is killed."
+  },
+  {
+    "id": 4283,
+    "AegisName": "Greatest_General_Card",
+    "name": "Greatest General Card",
+    "type": "Card",
+    "Description": "Add a 0.2% chance of auto casting Level 5 Call Spirits on the user when attacking.\n[Acolyte Class]\nThe chance is increased to 2%."
+  },
+  {
+    "id": 4284,
+    "AegisName": "Chepet_Card",
+    "name": "Chepet Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 5 Heal on the enemy when attacking."
+  },
+  {
+    "id": 4285,
+    "AegisName": "Choco_Card",
+    "name": "Choco Card",
+    "type": "Card",
+    "Description": "Perfect Dodge + 5\nFlee Rate + 10"
+  },
+  {
+    "id": 4286,
+    "AegisName": "Karakasa_Card",
+    "name": "Karakasa Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting 'Confusion' on an enemy when the user receives Physical Damage.\n[Base Strength \u003e= 77]\nAdd a chance of auto casting 'Confusion' is increased to 9%."
+  },
+  {
+    "id": 4287,
+    "AegisName": "Kapha_Card",
+    "name": "Kapha Card",
+    "type": "Card",
+    "Description": "[When compounded into an item with refine rate of 0~5]\nMDEF + 8"
+  },
+  {
+    "id": 4288,
+    "AegisName": "Carat_Card",
+    "name": "Carat Card",
+    "type": "Card",
+    "Description": "INT + 2\n[When compounded into an item with refine rate of +9 or higher]\nMaximum SP + 150"
+  },
+  {
+    "id": 4289,
+    "AegisName": "Caterpillar_Card",
+    "name": "Caterpillar Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a Plant monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4290,
+    "AegisName": "Cat_O_Nine_Tail_Card",
+    "name": "Cat O' Nine Tails Card",
+    "type": "Card",
+    "Description": "Reflect single target Magic back at the caster (Success Chance 5%).\nMDEF + 3"
+  },
+  {
+    "id": 4291,
+    "AegisName": "Kobold_Leader_Card",
+    "name": "Kobold Leader Card",
+    "type": "Card",
+    "Description": "Inflict 30% more damage on Kobolds."
+  },
+  {
+    "id": 4292,
+    "AegisName": "Kobold_Archer_Card",
+    "name": "Kobold Archer Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Plant monster."
+  },
+  {
+    "id": 4293,
+    "AegisName": "Cookie_Card",
+    "name": "Cookie Card",
+    "type": "Card",
+    "Description": "LUK + 2\nInflict 10% more damage with Holy Light.\n[Geographer, Rideword, Enchanted Peach Tree \u0026 Seal Card Combo]"
+  },
+  {
+    "id": 4294,
+    "AegisName": "Quve_Card",
+    "name": "Quve Card",
+    "type": "Card",
+    "Description": "[Novice, Super Novice]\nAdd a 10% chance of auto casting Level 1 Increase Agility on the user when the user receives Physical Damage.\n[+ Lude Card]\nMaximum SP + 60"
+  },
+  {
+    "id": 4295,
+    "AegisName": "Kraben_Card",
+    "name": "Kraben Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Blind' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4296,
+    "AegisName": "Cramp_Card",
+    "name": "Cramp Card",
+    "type": "Card",
+    "Description": "Add a 1% chance of gaining a certain amount of Zeny each time a monster is killed.\n[+ Tarou Card]\nSTR + 3"
+  },
+  {
+    "id": 4297,
+    "AegisName": "Cruiser_Card",
+    "name": "Cruiser Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Brute monster.\n[Anolian, Alligator, Merman \u0026 Dragon Tail Card Combo]"
+  },
+  {
+    "id": 4298,
+    "AegisName": "Cremy_Fear_Card",
+    "name": "Creamy Fear Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting 'Confusion' on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4299,
+    "AegisName": "Clock_Card",
+    "name": "Clock Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Level 3 Auto Guard on the user when the user receives Physical Damage.\nIf the user has mastered the skill at Level 10, it will cast Level 10 Auto Guard.\n[Clock Tower Manager, Alarm \u0026 Punk Card Combo]"
+  },
+  {
+    "id": 4300,
+    "AegisName": "Chimera_Card",
+    "name": "Chimera Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Poison on an enemy when the user receives Physical Damage.\n[Assassin, Assassin Cross]\nPoison chance increases to 9%."
+  },
+  {
+    "id": 4301,
+    "AegisName": "Killer_Mantis_Card",
+    "name": "Killer Mantis Card",
+    "type": "Card",
+    "Description": "Add a 6% chance of auto casting Bleeding on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4302,
+    "AegisName": "Tao_Gunka_Card",
+    "name": "Tao Gunka Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Maximum HP + 100%\nDEF - 50, MDEF - 50"
+  },
+  {
+    "id": 4303,
+    "AegisName": "Whisper_Boss_Card",
+    "name": "Giant Whisper Card",
+    "type": "Card",
+    "Description": "Flee Rate + 10\n[Base STR \u003e= 80]\nATK + 20\n[Base VIT \u003e= 80]\nMaximum HP + 3%\n[Base LUK \u003e= 80]\nCritical Rate + 3"
+  },
+  {
+    "id": 4304,
+    "AegisName": "Tamruan_Card",
+    "name": "Tamruan Card",
+    "type": "Card",
+    "Description": "DEF + 2\nInflict 10% more damage with Shield Charge and Shield Boomerang skills."
+  },
+  {
+    "id": 4305,
+    "AegisName": "Turtle_General_Card",
+    "name": "Turtle General Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Increases damage inflicted on all enemies by 20%.\nAdd a 3% chance of automatically casting Level 10 Magnum Break on the enemy when attacking."
+  },
+  {
+    "id": 4306,
+    "AegisName": "Toad_Card",
+    "name": "Toad Card",
+    "type": "Card",
+    "Description": "Perfect Dodge + 1\n[+ Roda Frog Card]\nFlee Rate + 18"
+  },
+  {
+    "id": 4307,
+    "AegisName": "Kind_Of_Beetle_Card",
+    "name": "Beetle King Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a Fish monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4308,
+    "AegisName": "Tri_Joint_Card",
+    "name": "Tri Joint Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a Formless monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4309,
+    "AegisName": "Parasite_Card",
+    "name": "Parasite Card",
+    "type": "Card",
+    "Description": "DEF + 1\nAdd a 5% resistance against Neutral Property attacks.\n[Loli Ruri, Miyabi Doll, Evil Nymph, Harpy \u0026 Bloody Butterfly Card Combo]"
+  },
+  {
+    "id": 4310,
+    "AegisName": "Panzer_Goblin_Card",
+    "name": "Panzer Goblin Card",
+    "type": "Card",
+    "Description": "Inflict 10% more damage with Critical attacks.\nCritical Rate + 7 on Demon monster."
+  },
+  {
+    "id": 4311,
+    "AegisName": "Permeter_Card",
+    "name": "Permeter Card",
+    "type": "Card",
+    "Description": "Add a 15% resistance against Shadow and Undead Property attacks.\n[Solider, Assaulter, Freezer \u0026 Heater Card Combo]"
+  },
+  {
+    "id": 4312,
+    "AegisName": "Fur_Seal_Card",
+    "name": "Seal Card",
+    "type": "Card",
+    "Description": "HIT + 10\nFlee Rate + 3\n[Acolyte Class]\nCritical Rate + 9 on Demon and Undead monster.\n[Geographer, Rideword, Enchanted Peach Tree \u0026 Cookie Card Combo]"
+  },
+  {
+    "id": 4313,
+    "AegisName": "Punk_Card",
+    "name": "Punk Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 1 Quagmire around the user when the user receives Physical Damage.\nIf the user has mastered the skill at Level 5, it will cast Level 5 Quagmire.\n[Clock Tower Manager, Alarm \u0026 Clock Card Combo]"
+  },
+  {
+    "id": 4314,
+    "AegisName": "Penomena_Card",
+    "name": "Penomena Card",
+    "type": "Card",
+    "Description": "Receive 30% less damage from Formless monster."
+  },
+  {
+    "id": 4315,
+    "AegisName": "Pest_Card",
+    "name": "Pest Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting 'Stone Curse' on an enemy when the user receives Physical Damage.\n[Base Intelligence \u003e= 77]\nAdd a chance of auto casting 'Stone Curse' is increased to 9%."
+  },
+  {
+    "id": 4316,
+    "AegisName": "Fake_Angel_Card",
+    "name": "False Angel Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time an Angel monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4317,
+    "AegisName": "Mobster_Card",
+    "name": "Mobster Card",
+    "type": "Card",
+    "Description": "Inflict 15% more damage with Critical attacks.\n[Thief Class]\nCritical Rate + 4"
+  },
+  {
+    "id": 4318,
+    "AegisName": "Knight_Windstorm_Card",
+    "name": "Stormy Knight Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Add a 2% chance of auto casting Level 2 Storm Gust on the enemy when attacking.\nHas 20% chance of Freezing an enemy when attacking."
+  },
+  {
+    "id": 4319,
+    "AegisName": "Freezer_Card",
+    "name": "Freezer Card",
+    "type": "Card",
+    "Description": "Maximum HP + 300\n[When compounded into an item with refine rate of +9 or higher]\nInflict 10% more damage with Bash.\n\n[Solider, Assaulter, Permeter \u0026 Heater Card Combo]"
+  },
+  {
+    "id": 4320,
+    "AegisName": "Bloody_Knight_Card",
+    "name": "Bloody Knight Card",
+    "type": "Card",
+    "Description": "Add a 2% chance of auto casting Level 1 Meteor Storm on the enemy when attacking."
+  },
+  {
+    "id": 4321,
+    "AegisName": "Hylozoist_Card",
+    "name": "Hylozoist Card",
+    "type": "Card",
+    "Description": "Add a chance of transforming a monster while fighting.\n[+ Raggler, Zipper Bear, Myst Case \u0026 Baby Leopard Card]\nRestore 2 SP every time when attacking.\nInflict 20% more damage with Mammonite.\nLUK + 10\n[Merchant Class]\nAdd a chance of gaining \"Old Purple Box\" each time a monster is killed.\nReflect single target Magic back at the caster (Success Chance 20%)."
+  },
+  {
+    "id": 4322,
+    "AegisName": "High_Orc_Card",
+    "name": "High Orc Card",
+    "type": "Card",
+    "Description": "DEF + 1\nReflect 5% of all Physical Melee Damage back to the enemy which inflicted it."
+  },
+  {
+    "id": 4323,
+    "AegisName": "Garm_Baby_Card",
+    "name": "Hatii Babe Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 3 Frost Diver on the enemy when attacking.\n[+ Garm Card]\nFrost Diver chance Increases to 30%"
+  },
+  {
+    "id": 4324,
+    "AegisName": "Garm_Card",
+    "name": "Hatii Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Add a 50% chance of auto casting 'Freeze' on an enemy when the user receives Physical Damage.\n[Garm Baby Card Combo]"
+  },
+  {
+    "id": 4325,
+    "AegisName": "Harpy_Card",
+    "name": "Harpy Card",
+    "type": "Card",
+    "Description": "Add a 15% resistance against Neutral Property attacks.\nInflict 5% more damage with Napalm Beat.\n[Loli Ruri, Parasite, Miyabi Doll, Evil Nymph \u0026 Bloody Butterfly Card Combo]"
+  },
+  {
+    "id": 4326,
+    "AegisName": "See_Otter_Card",
+    "name": "Sea-Otter Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Sushi' or 'Raw Fish' each time a Fish monster is killed.\nSushi and Raw Fish items restore 50% more HP."
+  },
+  {
+    "id": 4327,
+    "AegisName": "Blood_Butterfly_Card",
+    "name": "Bloody Butterfly Card",
+    "type": "Card",
+    "Description": "Spell casting can not be interrupted.\nIncrease Casting Time by 30%.\nInflict 5% more damage with Fire Wall.\n[Loli Ruri, Parasite, Miyabi Doll, Evil Nymph \u0026 Harpy Card Combo]"
+  },
+  {
+    "id": 4328,
+    "AegisName": "Hyegun_Card",
+    "name": "Yao Jun Card",
+    "type": "Card",
+    "Description": "Flee Rate + 15\nCritical Rate + 1\n[+ Munak \u0026 Bongun Card]\nAll Stats + 1"
+  },
+  {
+    "id": 4329,
+    "AegisName": "Phendark_Card",
+    "name": "Phendark Card",
+    "type": "Card",
+    "Description": "Gain 5 SP each time a DemiHuman monster is killed by a Physical Melee Damage.\nDrain 5 SP as the weapon is unequipped."
+  },
+  {
+    "id": 4330,
+    "AegisName": "Dark_Snake_Lord_Card",
+    "name": "Evil Snake Lord Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Never be affected by Blind and Curse effects.\nINT + 3"
+  },
+  {
+    "id": 4331,
+    "AegisName": "Heater_Card",
+    "name": "Heater Card",
+    "type": "Card",
+    "Description": "Critical Rate + 3\n[Swordman Class]\nPerfect Dodge + 3\n[Solider, Assaulter, Permeter \u0026 Freezer Card Combo]"
+  },
+  {
+    "id": 4332,
+    "AegisName": "Waste_Stove_Card",
+    "name": "Waste Stove Card",
+    "type": "Card",
+    "Description": "ATK + 5, INT + 1\n[+ Rideword, Cookie \u0026 Seal Card]\nATK + 25\nSTR + 3, Maximum SP + 80\nAdd a 1% chance of auto casting Level 5 Signum Crucis on the enemy when attacking.\nInflict 10% more damage with Asura Strike.\n[Monk, Champion]\nReduce SP Consumption of skills by 10%.\nSpell casting can not be interrupted."
+  },
+  {
+    "id": 4333,
+    "AegisName": "Venomous_Card",
+    "name": "Venomous Card",
+    "type": "Card",
+    "Description": "Add a 30% chance of auto casting 'Poison' on an enemy and yourself when the user receives Physical Damage."
+  },
+  {
+    "id": 4334,
+    "AegisName": "Noxious_Card",
+    "name": "Noxious Card",
+    "type": "Card",
+    "Description": "Reduce damage from Long Range attacks by 10%.\n10% Resistance to Neutral attacks."
+  },
+  {
+    "id": 4335,
+    "AegisName": "Pitman_Card",
+    "name": "Pitman Card",
+    "type": "Card",
+    "Description": "Inflict 5% more damage with Earth Spike and Heavens Drive.\n-50 SP when unequipped."
+  },
+  {
+    "id": 4336,
+    "AegisName": "Ungoliant_Card",
+    "name": "Ungoliant Card",
+    "type": "Card",
+    "Description": "Gain immunity to the Bleeding status.\nHP Recovery + 10%"
+  },
+  {
+    "id": 4337,
+    "AegisName": "Porcellio_Card",
+    "name": "Porcellio Card",
+    "type": "Card",
+    "Description": "ATK + 25\nDEF - 5"
+  },
+  {
+    "id": 4338,
+    "AegisName": "Obsidian_Card",
+    "name": "Obsidian Card",
+    "type": "Card",
+    "Description": "Every 18 Base DEX, you gain 1 VIT."
+  },
+  {
+    "id": 4339,
+    "AegisName": "Mineral_Card",
+    "name": "Mineral Card",
+    "type": "Card",
+    "Description": "ATK - 25\nDEF + 3"
+  },
+  {
+    "id": 4340,
+    "AegisName": "Teddy_Bear_Card",
+    "name": "Teddy Bear Card",
+    "type": "Card",
+    "Description": "Reduce damage from Undead monster by 30%."
+  },
+  {
+    "id": 4341,
+    "AegisName": "Metaling_Card",
+    "name": "Metaling Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 1 Strip Weapon on enemy when attacking."
+  },
+  {
+    "id": 4342,
+    "AegisName": "Rsx_0806_Card",
+    "name": "RSX-0806 Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Can not be knocked back.\nVIT + 3\nMake an armor indestructible (except in upgrade attempts)."
+  },
+  {
+    "id": 4343,
+    "AegisName": "Mole_Card",
+    "name": "Holden Card",
+    "type": "Card",
+    "Description": "LUK + 2\n[+ Raggler, Zipper Bear, Muka \u0026 Baby Leopard Card]\nSTR + 4\nMaximum HP and SP + 7%\nInflict 20% more damage with Mammonite.\nGain 1 SP on every physical attack on enemies.\n[Alchemist, Creator]\nAdd a 1% chance of auto casting Level 1 Adrenaline Rush on the user when attacking.\nAdd a chance of gaining \"Glistening Coat\" or \"Stem\" each time a monster is killed."
+  },
+  {
+    "id": 4344,
+    "AegisName": "Anopheles_Card",
+    "name": "Anopheles Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Tentacle and Cheese Gratin' each time an Insect monster is killed."
+  },
+  {
+    "id": 4345,
+    "AegisName": "Hill_Wind_Card",
+    "name": "Hill Wind Card",
+    "type": "Card",
+    "Description": "Inflict 5% more damage with Thunder Storm, Jupitel Thunder and Lord of Vermilion.\n-50 SP when unequipped."
+  },
+  {
+    "id": 4346,
+    "AegisName": "Ygnizem_Card",
+    "name": "Egnigem Cenia Card",
+    "type": "Card",
+    "Description": "Every 18 Base INT, you gain 1 STR."
+  },
+  {
+    "id": 4347,
+    "AegisName": "Armaia_Card",
+    "name": "Armeyer Dinze Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Clam Soup' each time a Fish monster is killed."
+  },
+  {
+    "id": 4348,
+    "AegisName": "Whikebain_Card",
+    "name": "Wickebine Tres Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 1 Strip Armor on the enemy when attacking.\n[+ Stainer, Wanderer, Wild Rose \u0026 Shinobi Card]\nSTR + 6\nAGI + 4\nInflict 10% more damage with Back Stab.\nAdd a 5% chance of auto casting Level 5 Strip Armor on the enemy when attacking if the user has mastered the skill at Level 5.\n[Rogue, Stalker]\nDisables the Auto-Intimidate ability of the Wanderer Card.\nReduce SP Consumption of skills by 20%."
+  },
+  {
+    "id": 4349,
+    "AegisName": "Erend_Card",
+    "name": "Errende Ebecee Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 1 Pneuma on the user when the user receives Physical Damage."
+  },
+  {
+    "id": 4350,
+    "AegisName": "Rawrel_Card",
+    "name": "Laurell Weinder Card",
+    "type": "Card",
+    "Description": "Inflict 3% more damage with Frost Nova and Storm Gust.\n-50 SP when unequipped."
+  },
+  {
+    "id": 4351,
+    "AegisName": "Kavac_Card",
+    "name": "Kavach Icarus Card",
+    "type": "Card",
+    "Description": "Flee Rate + 10\n[When compounded into an item with refine rate of 0~4]\nAdditional Flee Rate + 10\nPerfect Dodge + 1"
+  },
+  {
+    "id": 4352,
+    "AegisName": "B_Ygnizem_Card",
+    "name": "General Egnigem Cenia Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Every 10 seconds, you recover 50 HP and 10 SP.\nIncreases Maximum HP and Maximum SP by 10%."
+  },
+  {
+    "id": 4353,
+    "AegisName": "Removal_Card",
+    "name": "Remover Card",
+    "type": "Card",
+    "Description": "Maximum HP +800, decreases with the Refine Rate.\nHP Recovery +10%"
+  },
+  {
+    "id": 4354,
+    "AegisName": "Gemini_Card",
+    "name": "Gemini-S58 Card",
+    "type": "Card",
+    "Description": "[Base Agility \u003e= 90]\nAdd a 30% resistance against Silence and Stun.\n[Base Vitality \u003e= 80]\nAdd a 50% resistance against Stone Curse and Sleep."
+  },
+  {
+    "id": 4355,
+    "AegisName": "Gremlin_Card",
+    "name": "Gremlin Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Bomber Steak' each time a Brute monster is killed."
+  },
+  {
+    "id": 4356,
+    "AegisName": "Beholder_Card",
+    "name": "Beholder Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Cast Cancel."
+  },
+  {
+    "id": 4357,
+    "AegisName": "B_Seyren_Card",
+    "name": "Lord Knight Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enables use of Level 1 Berserk.\nMaximum HP - 50%"
+  },
+  {
+    "id": 4358,
+    "AegisName": "Seyren_Card",
+    "name": "Seyren Windsor Card",
+    "type": "Card",
+    "Description": "STR - 6\nIncrease STR by an amount equal to the refine rate of the equipment this card is compound on."
+  },
+  {
+    "id": 4359,
+    "AegisName": "B_Eremes_Card",
+    "name": "Assassin Cross Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Enables use of Level 3 Cloaking."
+  },
+  {
+    "id": 4360,
+    "AegisName": "Eremes_Card",
+    "name": "Eremes Guile Card",
+    "type": "Card",
+    "Description": "Critical Rate + 10 on DemiHuman monster."
+  },
+  {
+    "id": 4361,
+    "AegisName": "B_Harword_Card",
+    "name": "MasterSmith Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Add a 10% chance of breaking the enemy's weapon and a 7% chance of breaking the enemy's armor when attacking."
+  },
+  {
+    "id": 4362,
+    "AegisName": "Harword_Card",
+    "name": "Howard Alt-Eisen Card",
+    "type": "Card",
+    "Description": "HIT + 30\nDecreases Attack Speed by 5%."
+  },
+  {
+    "id": 4363,
+    "AegisName": "B_Magaleta_Card",
+    "name": "High Priest Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Every time you receive a Magical or a Physical Damage, small chance to auto-spell Level 1 Assumptio on yourself."
+  },
+  {
+    "id": 4364,
+    "AegisName": "Magaleta_Card",
+    "name": "Margaretha Sorin Card",
+    "type": "Card",
+    "Description": "Add a 15% chance of auto casting Level 5 Lex Divina on an enemy when the user receives Magical Damage.\nINT + 1"
+  },
+  {
+    "id": 4365,
+    "AegisName": "B_Katrinn_Card",
+    "name": "High Wizard Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Ignores MDEF of normal monsters. Slows your casting time by 2x. Reduces SP regeneration rate by 100%.\nDrain 2000 SP as the headgear is unequipped."
+  },
+  {
+    "id": 4366,
+    "AegisName": "Katrinn_Card",
+    "name": "Kathryne Keyron Card",
+    "type": "Card",
+    "Description": "Reduce Casting Time by 1% per Refine Level of the equipment this card is compunded on.\n[Refine Rate +9 or higher]\nMATK + 2%"
+  },
+  {
+    "id": 4367,
+    "AegisName": "B_Shecil_Card",
+    "name": "Sniper Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Reduces HP recovery by 100%.\nAdd a 5% chance of gaining 20% of the damage inflicted on an enemy as HP with each attack."
+  },
+  {
+    "id": 4368,
+    "AegisName": "Shecil_Card",
+    "name": "Cecil Damon Card",
+    "type": "Card",
+    "Description": "HIT - 30\nIncreases Attack Speed by 5%."
+  },
+  {
+    "id": 4369,
+    "AegisName": "Venatu_Card",
+    "name": "Venatu Card",
+    "type": "Card",
+    "Description": "Every 18 Base AGI, you gain 1 LUK."
+  },
+  {
+    "id": 4370,
+    "AegisName": "Dimik_Card",
+    "name": "Dimik Card",
+    "type": "Card",
+    "Description": "VIT - 5\nIncrease VIT by an amount equal to the refine rate of the equipment this card is compound on."
+  },
+  {
+    "id": 4371,
+    "AegisName": "Archdam_Card",
+    "name": "Archdam Card",
+    "type": "Card",
+    "Description": "ATK + 10\nIncrease Casting Time by 20%.\n[+ Permeter, Freezer \u0026 Heater Card]\nINT + 1\nSTR + 1\nDEF + 2\nSP Recovery + 10%\nInflict 10% more damage with Shield Chain and Sacrifice.\nReduce Casting Time by 10%.\n[Crusader, Paladin]\nBlesses an Armor with the Holy Property."
+  },
+  {
+    "id": 4372,
+    "AegisName": "Bacsojin_Card",
+    "name": "White Lady Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Increases effectiveness of Healing skills by 30% when they are cast by the wearer.\nIncreases SP consumption by 15%."
+  },
+  {
+    "id": 4373,
+    "AegisName": "Chung_E_Card",
+    "name": "Green Maiden Card",
+    "type": "Card",
+    "Description": "LUK - 5\nIncrease LUK and Critical Rate + 1% per Refine Level of the equipment this card is compounded on."
+  },
+  {
+    "id": 4374,
+    "AegisName": "Apocalips_H_Card",
+    "name": "Vesper Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Every time you do a Magical attack, it ignores 30% of Boss-type monster's MDEF, and does damage accordingly.\nDEX + 2"
+  },
+  {
+    "id": 4375,
+    "AegisName": "Orc_Baby_Card",
+    "name": "Orc Baby Card",
+    "type": "Card",
+    "Description": "Increase resistance to Neutral Property attacks by 10%.\nFlee Rate + 10\n[When compounded into an item with refine rate of +9 or higher]\nAdd a resistance against Neutral Property attacks by 5%.\nAdd a Flee Rate + 5"
+  },
+  {
+    "id": 4376,
+    "AegisName": "Lady_Tanee_Card",
+    "name": "Lady Tanee Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Maximum HP - 40%\nMaximum SP + 50%\nAdd a 2% chance of gaining 'Banana' each time a monster is killed.\nDouble Banana's healing rate."
+  },
+  {
+    "id": 4377,
+    "AegisName": "Green_Iguana_Card",
+    "name": "Grove Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Fruit Mix' each time a Formless monster is killed."
+  },
+  {
+    "id": 4378,
+    "AegisName": "Acidus_Card",
+    "name": "Gold Acidus Card",
+    "type": "Card",
+    "Description": "Maximum HP and SP + 4%\n[When compounded into an item with refine rate of 0~4]\nAdditional Maximum HP and SP + 4%\nHP and SP Recovery + 5%"
+  },
+  {
+    "id": 4379,
+    "AegisName": "Acidus__Card",
+    "name": "Blue Acidus Card",
+    "type": "Card",
+    "Description": "Maximum SP + 40\n[When compounded into an item with refine rate of 0~4]\nAdditional Maximum SP + 40\nSP Recovery + 5%"
+  },
+  {
+    "id": 4380,
+    "AegisName": "Ferus_Card",
+    "name": "Red Ferus Card",
+    "type": "Card",
+    "Description": "Inflict 5% more damage with Fire Pillar and Meteor Storm.\n-50 SP when unequipped."
+  },
+  {
+    "id": 4381,
+    "AegisName": "Ferus__Card",
+    "name": "Green Ferus Card",
+    "type": "Card",
+    "Description": "VIT + 1\nMaximum HP + 10%\n[+ Cruiser, Anolian, Alligator \u0026 Dragon Tail Card]\nDEX + 5\nInflict 5% more damage with Arrow Vulcan, and inflict 10% more damage with Musical Strike and Throw Arrow.\n[Bard, Dancer, Clown, Gypsy]\nAdd a 5% chance of auto casting Level 2 Tarot Card of Fate on the enemy when attacking."
+  },
+  {
+    "id": 4382,
+    "AegisName": "Novus__Card",
+    "name": "Yellow Novus Card",
+    "type": "Card",
+    "Description": "Maximum HP + 500\nHP Recovery + 10%\n[+ Miyabi Doll, Evil Nymph, Harpy \u0026 Bloody Butterfly Card]\nINT + 3\nInflict 10% more damage with Heaven's Drive and Thunder Storm.\n[Sage, Professor]\nReflect single target Magic back at the caster (Success Chance 20%).\nAdd a 1% chance of gaining 'Red Gemstone' or 'Yellow Gemstone' item each time a monster is killed.\nReduce Casting Time by 20%."
+  },
+  {
+    "id": 4383,
+    "AegisName": "Novus_Card",
+    "name": "Red Novus Card",
+    "type": "Card",
+    "Description": "Add a 30% chance of auto casting 'Confusion' on an enemy and yourself when the user receives Physical Damage."
+  },
+  {
+    "id": 4384,
+    "AegisName": "Hydro_Card",
+    "name": "Hydrolancer Card",
+    "type": "Card",
+    "Description": "Add a 10% chance of auto casting Level 1 Spell Breaker on the enemy when attacking."
+  },
+  {
+    "id": 4385,
+    "AegisName": "Dragon_Egg_Card",
+    "name": "Dragon Egg Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Honey Herbal Tea' each time a Dragon monster is killed."
+  },
+  {
+    "id": 4386,
+    "AegisName": "Detale_Card",
+    "name": "Detardeurus Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "MDEF -20\nGains immunity against Frozen status.\nHas a 5% chance of autocasting Level 1 Land Protector around the user when the user receives magical attack."
+  },
+  {
+    "id": 4387,
+    "AegisName": "Ancient_Mimic_Card",
+    "name": "Ancient Mimic Card",
+    "type": "Card",
+    "Description": "Every 18 Base LUK, you gain 1 AGI."
+  },
+  {
+    "id": 4388,
+    "AegisName": "Deathword_Card",
+    "name": "Death Word Card",
+    "type": "Card",
+    "Description": "Inflict 5% more damage with Soul Strike, Napalm Beat, Napalm Vulcan.\n-50 SP when unequipped."
+  },
+  {
+    "id": 4389,
+    "AegisName": "Plasma_Card",
+    "name": "Plasma Card",
+    "type": "Card",
+    "Description": "Adds a chance of gaining an Elemental Resist Potion (Fireproof,\nColdproof, Earthproof or Thunderproof) each time a monster is killed."
+  },
+  {
+    "id": 4390,
+    "AegisName": "Breeze_Card",
+    "name": "Breeze Card",
+    "type": "Card",
+    "Description": "ATK + 5\nAdd a 5% chance of auto casting Bleeding on the enemy when attacking."
+  },
+  {
+    "id": 4391,
+    "AegisName": "Retribution_Card",
+    "name": "Baroness of Retribution Card",
+    "type": "Card",
+    "Description": "Add a chance of gaining 'Fried Sweet Potato' each time an Angel monster is killed."
+  },
+  {
+    "id": 4392,
+    "AegisName": "Observation_Card",
+    "name": "Dame of Sentinel Card",
+    "type": "Card",
+    "Description": "Every 18 Base VIT, you gain 1 DEX."
+  },
+  {
+    "id": 4393,
+    "AegisName": "Shelter_Card",
+    "name": "Mistress of Shelter Card",
+    "type": "Card",
+    "Description": "Every 18 Base STR, you gain 1 INT."
+  },
+  {
+    "id": 4394,
+    "AegisName": "Solace_Card",
+    "name": "Lady Solace Card",
+    "type": "Card",
+    "Description": "[Priest, High Priest]\nAdd a 2% chance of auto casting Level 5 Grand Cross when attacking."
+  },
+  {
+    "id": 4395,
+    "AegisName": "Tha_Maero_Card",
+    "name": "Maero of Thanatos Card",
+    "type": "Card",
+    "Description": "ATK + 5\nAdd a 5% chance of auto casting Level 3 Decrease Agility on the enemy when attacking."
+  },
+  {
+    "id": 4396,
+    "AegisName": "Tha_Odium_Card",
+    "name": "Odium of Thanatos Card",
+    "type": "Card",
+    "Description": "AGI - 5\nIncrease AGI by an amount equal to the refine rate of the equipment this card is compounded on."
+  },
+  {
+    "id": 4397,
+    "AegisName": "Tha_Despero_Card",
+    "name": "Despero of Thanatos Card",
+    "type": "Card",
+    "Description": "INT - 6\nIncrease INT by an amount equal to the refine rate of the equipment this card is compounded on."
+  },
+  {
+    "id": 4398,
+    "AegisName": "Tha_Dolor_Card",
+    "name": "Dolor of Thanatos Card",
+    "type": "Card",
+    "Description": "Increases magical attack damage against Angel Type monsters by 10%."
+  },
+  {
+    "id": 4399,
+    "AegisName": "Thanatos_Card",
+    "name": "Memory of Thanatos Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Deals more damage depending on the target's defense.\nDrain 1 SP from its owner on each attack.\nDEF - 30, Flee Rate - 30"
+  },
+  {
+    "id": 4400,
+    "AegisName": "Aliza_Card",
+    "name": "Aliza Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Wink of Charm on an enemy when the user receives Physical Damage.\n[Dancer, Gypsy]\nAuto cast chance increases to 10%."
+  },
+  {
+    "id": 4401,
+    "AegisName": "Alicel_Card",
+    "name": "Alicel Card",
+    "type": "Card",
+    "Description": "Flee Rate + 10\nDEF - 5"
+  },
+  {
+    "id": 4402,
+    "AegisName": "Aliot_Card",
+    "name": "Aliot Card",
+    "type": "Card",
+    "Description": "[Swordman, Merchant, Thief Class]\nSTR + 2, Maximum HP + 5%\n[Mage, Acolyte, Archer Class]\nINT + 2, Maximum SP + 5%"
+  },
+  {
+    "id": 4403,
+    "AegisName": "Kiel_Card",
+    "name": "Kiel-D-01 Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Reduces all skill's after-cast delay by 30%."
+  },
+  {
+    "id": 4404,
+    "AegisName": "Skogul_Card",
+    "name": "Skogul Card",
+    "type": "Card",
+    "Description": "Add a 30% chance of auto casting Bleeding on an enemy and yourself when the user receives Physical Damage."
+  },
+  {
+    "id": 4405,
+    "AegisName": "Frus_Card",
+    "name": "Frus Card",
+    "type": "Card",
+    "Description": "Reflect single target Magic back at the caster by 2 times the refine rate chance. When used by a mage type character, MDEF + 3.\nHowever, the reflect chance increases only up to + 10 refine.\n[Mage Class]\nMDEF + 3"
+  },
+  {
+    "id": 4406,
+    "AegisName": "Skeggiold_Card",
+    "name": "Skeggiold Card",
+    "type": "Card",
+    "Description": "Whenever you do a Magical attack, 2% additional damage vs. Demon-type enemies."
+  },
+  {
+    "id": 4407,
+    "AegisName": "Randgris_Card",
+    "name": "Randgris Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Add a 1% chance of auto casting Level 1 Dispell when attacking.\nMake compounded weapon indestructible (except in upgrade attempts).\nIncreases Physical Attack Strength by 10%."
+  },
+  {
+    "id": 4408,
+    "AegisName": "Gloom_Under_Night_Card",
+    "name": "Gloom Under Night Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Increase damage inflicted on Holy Property, Shadow Property, Angel monster and Demon monster by 40%."
+  },
+  {
+    "id": 4409,
+    "AegisName": "Agav_Card",
+    "name": "Agav Card",
+    "type": "Card",
+    "Description": "MATK + 5%, DEF - 10\n[Mage Class]\nMax SP + 100"
+  },
+  {
+    "id": 4410,
+    "AegisName": "Echio_Card",
+    "name": "Echio Card",
+    "type": "Card",
+    "Description": "ATK + 15\n[Swordman Class]\nMax HP + 500"
+  },
+  {
+    "id": 4411,
+    "AegisName": "Vanberk_Card",
+    "name": "Vanberk Card",
+    "type": "Card",
+    "Description": "STR +2\nEach attack has a chance of gaining CRIT +100 for 5 seconds."
+  },
+  {
+    "id": 4412,
+    "AegisName": "Isilla_Card",
+    "name": "Isilla Card",
+    "type": "Card",
+    "Description": "INT +2\nEach magic cast has a chance of reducing cast time by 50% and Flee +30 for 5 seconds."
+  },
+  {
+    "id": 4413,
+    "AegisName": "Hodremlin_Card",
+    "name": "Hodremlin Card",
+    "type": "Card",
+    "Description": "Reduces physical damage received from Small, Medium and Large size monsters by 15%.\nHas a chance of gaining Perfect Dodge +30 for 10 seconds when the wearer receives physical or magical damage."
+  },
+  {
+    "id": 4414,
+    "AegisName": "Seeker_Card",
+    "name": "Seeker Card",
+    "type": "Card",
+    "Description": "MDEF + 10\nEnables use of Level 1 Stone Curse.\nIncrease resistance to Stone Curse status by 30%."
+  },
+  {
+    "id": 4415,
+    "AegisName": "Snowier_Card",
+    "name": "Snowier Card",
+    "type": "Card",
+    "Description": "Add a low chance of gaining Ice Cream when a monster gets killed.\nIce Cream recovery rate + 100%."
+  },
+  {
+    "id": 4416,
+    "AegisName": "Siroma_Card",
+    "name": "Siroma Card",
+    "type": "Card",
+    "Description": "Reduce Casting Time of Cold Bolt by 25%. Inflict 25% more damage with Cold Bolt."
+  },
+  {
+    "id": 4417,
+    "AegisName": "Ice_Titan_Card",
+    "name": "Ice Titan Card",
+    "type": "Card",
+    "Description": "VIT +2\nHas a chance to gain DEF +10 for 10 seconds when the wearer receives physical or magical damage."
+  },
+  {
+    "id": 4418,
+    "AegisName": "Gazeti_Card",
+    "name": "Gazeti Card",
+    "type": "Card",
+    "Description": "Add a 5% chance of auto casting Level 2 Cold Bolt on the enemy when attacking."
+  },
+  {
+    "id": 4419,
+    "AegisName": "Ktullanux_Card",
+    "name": "Ktullanux Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "Increases damage against Fire Property monsters by 50%.\nAdd a 3% chance of auto casting Level 10 Frost Nova on an enemy when the user receives Physical Damage."
+  },
+  {
+    "id": 4420,
+    "AegisName": "Muscipular_Card",
+    "name": "Muscipular Card",
+    "type": "Card",
+    "Description": "Add a 3% chance of auto casting Level 1 Heal and Level 1 Increase Agi on yourself when the user receives Physical Damage."
+  },
+  {
+    "id": 4421,
+    "AegisName": "Drosera_Card",
+    "name": "Drosera Card",
+    "type": "Card",
+    "Description": "Increase Critical Rate + 15 damage with Long Range Physical attack."
+  },
+  {
+    "id": 4422,
+    "AegisName": "Roween_Card",
+    "name": "Roween Card",
+    "type": "Card",
+    "Description": "Flee Rate + 5, Perfect Dodge + 3\nIncrease damage on Water Property enemies by 10%.\nAdd a Critical Rate + 15 to the Fish monster."
+  },
+  {
+    "id": 4423,
+    "AegisName": "Galion_Card",
+    "name": "Galion Card",
+    "type": "Card",
+    "Description": "HIT + 5, Increase damage on Water Property enemies by 5%."
+  },
+  {
+    "id": 4424,
+    "AegisName": "Stapo_Card",
+    "name": "Stapo Card",
+    "type": "Card",
+    "Description": "Enables use of Level 1 Pick Stone and Level 1 Throw Stone."
+  },
+  {
+    "id": 4425,
+    "AegisName": "Atroce_Card",
+    "name": "Atroce Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "ATK + 25\nWhen dealing a physical attack there is a small chance that for 10 seconds your ASPD will increase by 100%."
+  },
+  {
+    "id": 4426,
+    "AegisName": "Byorgue_Card",
+    "name": "Byorgue Card",
+    "type": "Card",
+    "Description": "[Rogue, Stalker]\nATK + 10%, MATK + 10%"
+  },
+  {
+    "id": 4427,
+    "AegisName": "Sword_Guardian_Card",
+    "name": "Sword Guardian Card",
+    "type": "Card",
+    "Description": "Critical Rate + 5, HIT + 5\nIncreases Bowling Bash damage with an one hand or two handed sword by 25%."
+  },
+  {
+    "id": 4428,
+    "AegisName": "Bow_Guardian_Card",
+    "name": "Bow Guardian Card",
+    "type": "Card",
+    "Description": "Critical Rate + 5, HIT + 5\nIncreases Arrow Shower damage when used with a bow by 50%."
+  },
+  {
+    "id": 4429,
+    "AegisName": "Salamander_Card",
+    "name": "Salamander Card",
+    "type": "Card",
+    "Description": "Inflict 40% more damage with Fire Pillar and Meteor Storm."
+  },
+  {
+    "id": 4430,
+    "AegisName": "Ifrit_Card",
+    "name": "Ifrit Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "+1 ATK, +1 Critical Rate and +1 HIT for every 10 Job Levels.\nAdds a 1% chance of auto casting Level 2 Earthquake when receiving physical attack."
+  },
+  {
+    "id": 4431,
+    "AegisName": "Kasa_Card",
+    "name": "Kasa Card",
+    "type": "Card",
+    "Description": "Has a 5% chance of auto-casting Level 5 Fire Bolt or Level 5 Fire Ball on the enemy when attacking."
+  },
+  {
+    "id": 4432,
+    "AegisName": "Magmaring_Card",
+    "name": "Magmaring Card",
+    "type": "Card",
+    "Description": "ATK + 5\nIncrease damage on Earth Property enemies by 10%.\nAdd a Critical Rate + 15 to the Brute monster."
+  },
+  {
+    "id": 4433,
+    "AegisName": "Imp_Card",
+    "name": "Imp Card",
+    "type": "Card",
+    "Description": "Reduce Casting Time of Fire Bolt by 25%. Inflict 25% more damage with Fire Bolt."
+  },
+  {
+    "id": 4434,
+    "AegisName": "Knocker_Card",
+    "name": "Knocker Card",
+    "type": "Card",
+    "Description": "Increases damage on Formless monster by 5%.\nA small chance to get Rough Oridecon and Rough Eluminium from Formless monster."
+  },
+  {
+    "id": 4435,
+    "AegisName": "Zombie_Slaughter_Card",
+    "name": "Zombie Slaughter Card",
+    "type": "Card",
+    "Description": "Recover 50 HP every time a monster is defeated by melee attack.\nIncrease Physical and Magical Damage on DemiHuman monster by 1%.\n[Ragged Zombie Card Combo]"
+  },
+  {
+    "id": 4436,
+    "AegisName": "Ragged_Zombie_Card",
+    "name": "Ragged Zombie Card",
+    "type": "Card",
+    "Description": "Critical Rate + 5, physical and magical damage increase by 1% when attacking DemiHuman monster.\nEvery time you attack, small chance to cause Bleeding status ailment.\n[+ Zombie Slaughter Card]\nGain 2 SP every killing a DemiHuman monster."
+  },
+  {
+    "id": 4437,
+    "AegisName": "Hell_Poodle_Card",
+    "name": "Hell Poodle Card",
+    "type": "Card",
+    "Description": "HIT +1\nIncreases recovery rate of Meat by 100%.\nHas a 1% chance to cause Bleeding status on an enemy when dealing short ranged physical attack."
+  },
+  {
+    "id": 4438,
+    "AegisName": "Banshee_Card",
+    "name": "Banshee Card",
+    "type": "Card",
+    "Description": "[Mage and Mage Upper Classes]\nMax SP + 100, Max HP - 100\nInflict 20% more damage with Soul Strike, Napalm Beat, Napalm Vulcan."
+  },
+  {
+    "id": 4439,
+    "AegisName": "Flame_Skull_Card",
+    "name": "Flame Skull Card",
+    "type": "Card",
+    "Description": "Add a 30% resistance against Stun, Curse, Blind, Stone Curse.\nAdd a chance of auto casting Stun, Curse, Blind, Stone Curse when the user receives Physical Damage."
+  },
+  {
+    "id": 4440,
+    "AegisName": "Necromancer_Card",
+    "name": "Necromancer Card",
+    "type": "Card",
+    "Description": "[When compounded to a Rod (One-handed Staff weapon type)]\nINT + 1\nIgnores 2% Magic Defense of enemies."
+  },
+  {
+    "id": 4441,
+    "AegisName": "Fallen_Bishop_Card",
+    "name": "Fallen Bishop Hibram Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "MATK + 10%, Maximum SP - 50%\nIncreases damage inflicted on Demihuman and Angel monster by 50%."
+  },
+  {
+    "id": 4442,
+    "AegisName": "Tatacho_Card",
+    "name": "Tatacho Card",
+    "type": "Card",
+    "Description": "Decreases damage from Neutral Property by 20%. \n Increases damage dealing to Neutral Property by 5%."
+  },
+  {
+    "id": 4443,
+    "AegisName": "Aqua_Elemental_Card",
+    "name": "Aqua Elemental Card",
+    "type": "Card",
+    "Description": "Decreases damage from Water Property by 20%.\nIncreases damage dealing to Water Property by 5%."
+  },
+  {
+    "id": 4444,
+    "AegisName": "Draco_Card",
+    "name": "Draco Card",
+    "type": "Card",
+    "Description": "Decreases damage from Earth Property by 20%.\nIncreases damage dealing to Earth Property by 5%."
+  },
+  {
+    "id": 4445,
+    "AegisName": "Luciola_Vespa_Card",
+    "name": "Luciola Vespa Card",
+    "type": "Card",
+    "Description": "Decreases damage from Wind Property by 20%.\nIncreases damage dealing to Wind Property by 5%."
+  },
+  {
+    "id": 4447,
+    "AegisName": "Centipede_Card",
+    "name": "Centipede Card",
+    "type": "Card",
+    "Description": "Decreases damage from Poison Property by 20%.\nIncreases damage dealing to Poison Property by 5%."
+  },
+  {
+    "id": 4448,
+    "AegisName": "Cornus_Card",
+    "name": "Cornus Card",
+    "type": "Card",
+    "Description": "Decreases damage from Holy Property by 20%.\nIncreases damage dealing to Holy Property by 5%."
+  },
+  {
+    "id": 4449,
+    "AegisName": "Dark_Shadow_Card",
+    "name": "Dark Shadow Card",
+    "type": "Card",
+    "Description": "Decreases damage from Shadow Property by 20%.\nIncreases damage dealing to Shadow Property by 5%."
+  },
+  {
+    "id": 4450,
+    "AegisName": "Banshee_Master_Card",
+    "name": "Banshee Master Card",
+    "type": "Card",
+    "Description": "INT + 1, MATK + 10."
+  },
+  {
+    "id": 4451,
+    "AegisName": "Ant_Buyanne_Card",
+    "name": "Entweihen Crothen Card",
+    "type": "Card",
+    "mvp": true,
+    "Description": "MATK + 100."
+  },
+  {
+    "id": 4452,
+    "AegisName": "Centipede_Larva_Card",
+    "name": "Centipede Larva Card",
+    "type": "Card",
+    "Description": "INT + 1, MATK + 3."
+  },
+  {
+    "id": 4453,
+    "AegisName": "Hilsrion_Card",
+    "name": "Hillsrion Card",
+    "type": "Card",
+    "Description": "ATK + 25"
+  }
+]

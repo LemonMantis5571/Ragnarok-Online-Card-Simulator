@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Almendra:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Font - Fantasy-style */
+
+@layer base {
+  :root {
+    /* Ragnarok Online Color Palette */
+    --background: 24 30% 8%;
+    --foreground: 35 30% 90%;
+    --card: 24 25% 12%;
+    --card-foreground: 35 30% 90%;
+    --popover: 24 25% 10%;
+    --popover-foreground: 35 30% 90%;
+    --primary: 38 65% 50%;
+    --primary-foreground: 24 30% 8%;
+    --secondary: 24 20% 20%;
+    --secondary-foreground: 35 30% 90%;
+    --muted: 24 15% 18%;
+    --muted-foreground: 35 15% 55%;
+    --accent: 38 70% 45%;
+    --accent-foreground: 24 30% 8%;
+    --destructive: 0 65% 45%;
+    --destructive-foreground: 35 30% 90%;
+    --border: 35 25% 25%;
+    --input: 24 20% 18%;
+    --ring: 38 65% 50%;
+    --radius: 0.375rem;
+    
+    /* Custom RO Colors - More Vibrant */
+    --ro-gold: #f0c45c;
+    --ro-gold-dark: #b8892a;
+    --ro-gold-light: #fff0be;
+    --ro-brown: #2d2318;
+    --ro-brown-dark: #0f0b08;
+    --ro-brown-light: #4a3c2f;
+    --ro-red: #cc2b5e;
+    --ro-purple: #7b2ff7;
+    --ro-blue: #3b82f6; /* EXP Blue */
+    --ro-green: #22c55e; /* HP Green */
+    --ro-silver: #cbd5e1;
+    --ro-parchment: #fde68a;
+    --ro-text-light: #ffffff;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Almendra', serif;
+    background: 
+      radial-gradient(circle at 20% 30%, rgba(123, 47, 247, 0.05) 0%, transparent 40%),
+      radial-gradient(circle at 80% 70%, rgba(59, 130, 246, 0.05) 0%, transparent 40%),
+      radial-gradient(ellipse at top, rgba(240, 196, 92, 0.1) 0%, transparent 50%),
+      linear-gradient(180deg, #0f0b08 0%, #1a1410 100%);
+    min-height: 100vh;
+    background-attachment: fixed;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.02em;
+  }
+}
+
+/* Custom Scrollbar */
+@layer utilities {
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: var(--ro-brown-dark);
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, var(--ro-gold) 0%, var(--ro-gold-dark) 100%);
+    border-radius: 5px;
+    border: 2px solid var(--ro-brown-dark);
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, var(--ro-gold-light) 0%, var(--ro-gold) 100%);
+  }
+}
+
+/* RO Panel Styling */
+@layer components {
+  .ro-panel {
+    background: linear-gradient(165deg, var(--ro-brown) 0%, var(--ro-brown-dark) 100%);
+    border: 1px solid rgba(240, 196, 92, 0.4);
+    border-radius: 4px;
+    box-shadow: 
+      0 10px 30px rgba(0, 0, 0, 0.8),
+      inset 0 0 40px rgba(0, 0, 0, 0.5);
+    position: relative;
+  
+  }
+  
+  .ro-panel::before {
+    content: '';
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+    border: 1px solid rgba(212, 164, 76, 0.2);
+    border-radius: 4px;
+    pointer-events: none;
+  }
+  
+  /* Decorative Corners */
+  .ro-corner {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background: var(--ro-gold);
+    clip-path: polygon(0 0, 100% 0, 100% 25%, 25% 25%, 25% 100%, 0 100%);
+  }
+  
+  .ro-corner-tl { top: -2px; left: -2px; }
+  .ro-corner-tr { top: -2px; right: -2px; transform: rotate(90deg); }
+  .ro-corner-bl { bottom: -2px; left: -2px; transform: rotate(-90deg); }
+  .ro-corner-br { bottom: -2px; right: -2px; transform: rotate(180deg); }
+  
+  .mvp-3d {
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    box-shadow: 
+      0 0 15px rgba(212, 164, 76, 0.4),
+      0 0 30px rgba(212, 164, 76, 0.2);
+    border-color: var(--ro-gold) !important;
+  }
+  
+  .mvp-holo-shine {
+    background: linear-gradient(
+      115deg,
+      transparent 20%,
+      rgba(255, 255, 255, 0.1) 30%,
+      rgba(100, 200, 255, 0.2) 35%,
+      rgba(255, 100, 200, 0.2) 40%,
+      rgba(255, 215, 0, 0.3) 45%,
+      transparent 55%
+    );
+    background-size: 250% 250%;
+    mix-blend-mode: color-dodge;
+    transition: background-position 0.1s ease;
+    filter: brightness(1.5) contrast(1.2);
+  }
+
+  .mvp-glitter {
+    background-image: 
+      radial-gradient(circle at 50% 50%, white 1px, transparent 1px);
+    background-size: 20px 20px;
+    background-repeat: repeat;
+    mask-image: radial-gradient(circle at 50% 50%, black 20%, transparent 80%);
+    mix-blend-mode: overlay;
+    animation: glitter-shimmer 4s linear infinite;
+  }
+
+  @keyframes glitter-shimmer {
+    0% { background-position: 0% 0%; }
+    100% { background-position: 100% 100%; }
+  }
+  
+  @keyframes holo-sweep {
+    0% { background-position: 200% 200%; }
+    50% { background-position: 0% 0%; }
+    100% { background-position: -100% -100%; }
+  }
+  
+
+  
+  /* RO Button Style */
+  .ro-button {
+    background: linear-gradient(180deg, var(--ro-gold) 0%, var(--ro-gold-dark) 100%);
+    color: var(--ro-brown-dark);
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: 2px solid var(--ro-gold-dark);
+    box-shadow: 
+      inset 0 1px 0 rgba(255, 255, 255, 0.3),
+      inset 0 -2px 0 rgba(0, 0, 0, 0.2),
+      0 2px 4px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease;
+  }
+  
+  .ro-button:hover {
+    background: linear-gradient(180deg, var(--ro-gold-light) 0%, var(--ro-gold) 100%);
+    box-shadow: 
+      inset 0 1px 0 rgba(255, 255, 255, 0.4),
+      inset 0 -2px 0 rgba(0, 0, 0, 0.2),
+      0 4px 12px rgba(212, 164, 76, 0.4);
+    transform: translateY(-1px);
+  }
+  
+  .ro-button:active {
+    transform: translateY(1px);
+    box-shadow: 
+      inset 0 2px 4px rgba(0, 0, 0, 0.3),
+      0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Ghost Button Style */
+  .ro-button-ghost {
+    background: transparent;
+    color: var(--ro-gold);
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+  }
+  
+  .ro-button-ghost:hover {
+    background: rgba(212, 164, 76, 0.1);
+    border-color: rgba(212, 164, 76, 0.3);
+    text-shadow: 0 0 10px rgba(212, 164, 76, 0.5);
+  }
+  
+  /* Progress Bar RO Style */
+  .ro-progress {
+    background: var(--ro-brown-dark);
+    border: 2px solid var(--ro-gold-dark);
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .ro-progress-bar {
+    background: linear-gradient(90deg, #2563eb 0%, #3b82f6 50%, #60a5fa 100%);
+    box-shadow: 
+      0 0 10px rgba(59, 130, 246, 0.5),
+      inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  
+
+  
+  /* Section Divider */
+  .ro-divider {
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--ro-gold), transparent);
+    margin: 1.5rem 0;
+  }
+  
+  /* Title Decoration */
+  .ro-title {
+    position: relative;
+    display: inline-block;
+    color: var(--ro-gold);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    max-width: 100%;
+  }
+  
+  .ro-title::before,
+  .ro-title::after {
+    content: '◆';
+    font-size: 0.5em;
+    margin: 0 0.5em;
+    opacity: 0.7;
+    vertical-align: middle;
+  }
+
+  @media (max-width: 640px) {
+    .ro-title::before,
+    .ro-title::after {
+      margin: 0 0.25em;
+    }
+  }
+
+  .ro-navbar {
+    background: linear-gradient(165deg, var(--ro-brown) 0%, var(--ro-brown-dark) 100%);
+    border: 1px solid rgba(240, 196, 92, 0.4);
+    border-radius: 4px;
+    box-shadow: 
+      0 10px 30px rgba(0, 0, 0, 0.8),
+      inset 0 0 40px rgba(0, 0, 0, 0.5);
+    backdrop-filter: none;
+  }
+}

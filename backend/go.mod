@@ -1,0 +1,20 @@
+module RagnarokSimulator
+
+go 1.24.0
+
+toolchain go1.24.4
+
+require (
+	github.com/caarlos0/env/v8 v8.0.0
+	github.com/go-chi/chi/v5 v5.2.1
+	github.com/go-chi/httprate v0.15.0
+	github.com/joho/godotenv v1.5.1
+	github.com/lib/pq v1.10.9
+)
+
+require (
+	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
+	github.com/zeebo/xxh3 v1.0.2 // indirect
+	golang.org/x/sync v0.17.0 // indirect
+	golang.org/x/sys v0.37.0 // indirect
+)
